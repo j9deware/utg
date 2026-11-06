@@ -1,0 +1,2 @@
+-- go to the "fun" tab in settings to access misfortune settings
+loadstring(game:HttpGet("https://raw.githubusercontent.com/d2ltatron/wheelofmisfortune/refs/heads/main/script.lua"))()
