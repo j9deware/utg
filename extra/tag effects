@@ -1,0 +1,853 @@
+{
+  "cha boom": {
+    "Image": "rbxassetid://18335207373",
+    "Description": "this has to be a felony",
+    "Rarity": "Mythic",
+    "DisplayName": "cha boom"
+  },
+  "Present": {
+    "Description": "yay!!! i wonder whats inside...",
+    "Author": "pixool",
+    "DisplayName": "present",
+    "Image": "rbxassetid://112067619225360",
+    "AuthorsNew": "192583350",
+    "Rarity": "Valentines2026"
+  },
+  "decapitate": {
+    "Image": "rbxassetid://17603244113",
+    "Description": "1793 type beat",
+    "Rarity": "Rare",
+    "DisplayName": "decapitate"
+  },
+  "stunt dummy": {
+    "Description": "...aaaand away you go!",
+    "Author": "geocolada",
+    "DisplayName": "stunt dummy",
+    "Image": "rbxassetid://17702084534",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "1448365173"
+  },
+  "TrapDoor": {
+    "Description": "lock em up",
+    "Author": "B_lial",
+    "DisplayName": "trapdoor",
+    "Image": "rbxassetid://128233978250563",
+    "AuthorsNew": "881146999",
+    "Rarity": "Epic"
+  },
+  "hyperlaser": {
+    "Image": "rbxassetid://17611416871",
+    "Description": "an exploiter hacked my account and traded this gear away once :(",
+    "Rarity": "Mythic",
+    "DisplayName": "hyperlaser"
+  },
+  "Tag64": {
+    "Description": "please don't take us down",
+    "Author": "craigalaigg",
+    "DisplayName": "tag64",
+    "Image": "rbxassetid://80602478367736",
+    "AuthorsNew": "206589099",
+    "Rarity": "Outrageous"
+  },
+  "confetti": {
+    "Image": "rbxassetid://17603388745",
+    "Description": "yippee!!!!!",
+    "Rarity": "Uncommon",
+    "DisplayName": "confetti"
+  },
+  "cavestory": {
+    "Description": "what's a good quote i can put here",
+    "Author": "allergictosanity",
+    "DisplayName": "cavestory",
+    "Image": "rbxassetid://89644105387370",
+    "AuthorsNew": "104077195",
+    "Rarity": "Outrageous"
+  },
+  "Strike": {
+    "Description": "nostalgia at its finest",
+    "Author": "SophixieDust",
+    "DisplayName": "strike",
+    "Image": "rbxassetid://96144165906801",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "ZeussSide": {
+    "Description": "shocking!",
+    "Author": "geocolada",
+    "DisplayName": "zeus' side",
+    "Image": "rbxassetid://18771033402",
+    "Rarity": "Mythic",
+    "AuthorsNew": "1448365173"
+  },
+  "BookedTag": {
+    "Description": "dude he wont be happy i lost all his pages",
+    "Author": "zCombay",
+    "DisplayName": "booked",
+    "Image": "rbxassetid://118856463869410",
+    "AuthorsNew": "156438485",
+    "Rarity": "Outrageous"
+  },
+  "grounded": {
+    "Description": "truly the strongest battleground",
+    "Author": "geocolada",
+    "DisplayName": "grounded",
+    "Image": "rbxassetid://18325995544",
+    "Rarity": "Mythic",
+    "AuthorsNew": "1448365173"
+  },
+  "Rush": {
+    "Image": "rbxassetid://84282869732661",
+    "Description": "I'M GONNA RUSH!!!",
+    "Rarity": "DoorsCollab",
+    "DisplayName": "rush"
+  },
+  "Vorp": {
+    "Description": "sends victims to another dimension",
+    "Author": "B_lial",
+    "DisplayName": "vorp",
+    "Image": "rbxassetid://95073164515982",
+    "AuthorsNew": "881146999",
+    "Rarity": "Legendary"
+  },
+  "popup": {
+    "Image": "rbxassetid://17613047791",
+    "Description": "D̶O̴ ̸Y̶O̴U̸ ̴W̴A̴N̷T̸ ̴F̸R̵E̶E̸ ̸T̶I̴X̶?̸?̴ ̸C̵O̸I̴N̴S̸?̴?̵?̷ ̶C̸L̵I̶C̴K̶ ̴H̴E̷R̷E̷",
+    "Rarity": "Mythic",
+    "DisplayName": "popup"
+  },
+  "rightclickcut": {
+    "Description": "dude how do i have access to workspace",
+    "Author": "catenary_curve",
+    "DisplayName": "right-click cut",
+    "Image": "rbxassetid://98978727268862",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Mythic"
+  },
+  "Pichuun": {
+    "Description": "my shrine rarely has any visitors during the year",
+    "Author": "catenary_curve",
+    "DisplayName": "pichuun",
+    "Image": "rbxassetid://86564612941764",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Legendary"
+  },
+  "disintegrate": {
+    "Description": "no, screw off",
+    "Author": "geocolada",
+    "DisplayName": "disintegrate",
+    "Image": "rbxassetid://17612338456",
+    "Rarity": "Legendary",
+    "AuthorsNew": "1448365173"
+  },
+  "ice": {
+    "Image": "rbxassetid://17637267628",
+    "Description": "早上好中国 现在我有冰激淋 我很喜欢冰激淋",
+    "Rarity": "Epic",
+    "DisplayName": "ice"
+  },
+  "anti gravity": {
+    "Image": "rbxassetid://17611254170",
+    "Description": "watch dogs type humor",
+    "Rarity": "Epic",
+    "DisplayName": "anti-gravity"
+  },
+  "ragdoll": {
+    "Image": "rbxassetid://17713924787",
+    "Description": "hospital bills go wild",
+    "Rarity": "Common",
+    "DisplayName": "ragdoll"
+  },
+  "ComicFactor": {
+    "Description": "BANG! POW! WHAM!",
+    "Author": "geocolada",
+    "DisplayName": "comic factor",
+    "Image": "rbxassetid://18770567136",
+    "Rarity": "Mythic",
+    "AuthorsNew": "1448365173"
+  },
+  "scream": {
+    "Image": "rbxassetid://1308665109",
+    "Description": "AAAAAAAAAAUUGH",
+    "Exclude": true,
+    "Rarity": "Uncommon",
+    "DisplayName": "the screams"
+  },
+  "implode": {
+    "Description": "we love quicksand",
+    "Author": "1nicopatty",
+    "DisplayName": "implode",
+    "Image": "rbxassetid://18771749842",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "1448365173"
+  },
+  "abduction": {
+    "Description": "what an unexpected development!",
+    "Author": "debelopment",
+    "DisplayName": "abduction",
+    "Image": "rbxassetid://95525537676769",
+    "Rarity": "Rare",
+    "AuthorsNew": "184995393"
+  },
+  "Shatter": {
+    "Description": "really gonna do that to their dreams?",
+    "Author": "B_lial",
+    "DisplayName": "shatter",
+    "Image": "rbxassetid://113993878791252",
+    "AuthorsNew": "881146999",
+    "Rarity": "Outrageous"
+  },
+  "ZapperEffect": {
+    "Description": "where have i seen this before",
+    "Author": "CrafterRBLXGo",
+    "DisplayName": "zapper",
+    "Image": "rbxassetid://72483872776045",
+    "AuthorsNew": "245506607",
+    "Rarity": "Mythic"
+  },
+  "crazy knockback": {
+    "Image": "rbxassetid://17713489855",
+    "Description": "bye bye!",
+    "Rarity": "Common",
+    "DisplayName": "crazy knockback"
+  },
+  "CTRLZ": {
+    "Description": "ctrl + z",
+    "Author": "debelopment",
+    "DisplayName": ":destroy()",
+    "Image": "rbxassetid://94829040636064",
+    "AuthorsNew": "184995393",
+    "Rarity": "Outrageous"
+  },
+  "Warp": {
+    "Image": "rbxassetid://82774642",
+    "Description": "hi you cant use this since you arent shoe",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "Warp"
+  },
+  "MadMurderer": {
+    "Description": "it's only a lil scratch",
+    "Author": "B_lial",
+    "DisplayName": "madmurderer",
+    "Image": "rbxassetid://78655854072532",
+    "AuthorsNew": "881146999",
+    "Rarity": "Mythic"
+  },
+  "Darkseed": {
+    "Description": "corruption at its finest",
+    "Author": "Kal_culu5",
+    "DisplayName": "dark seed",
+    "Image": "rbxassetid://105290575124775",
+    "AuthorsNew": "149996007",
+    "Rarity": "Outrageous"
+  },
+  "DoubleDonk": {
+    "Description": "THERE'S ONE MORE WHERE THATS FROM!!!",
+    "Author": "ck7608",
+    "DisplayName": "double donk",
+    "Image": "rbxassetid://84068887738906",
+    "Rarity": "Mythic",
+    "AuthorsNew": "678190017"
+  },
+  "SnowmanDeath": {
+    "Image": "rbxassetid://82774642",
+    "Description": "hi you cant use this since you arent a snowman",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "welly's death"
+  },
+  "Spare": {
+    "Description": "chapter 5 when",
+    "Author": "catenary_curve",
+    "DisplayName": "spare",
+    "Image": "rbxassetid://132507994974629",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Epic"
+  },
+  "MonochromeStrike": {
+    "Description": "hit",
+    "Author": "sydgyx",
+    "DisplayName": "monochrome strike",
+    "Image": "rbxassetid://109996209677924",
+    "AuthorsNew": "1028732387",
+    "Rarity": "Outrageous"
+  },
+  "CandyExplosion": {
+    "Description": "warheads could never",
+    "Author": "Kal_culu5",
+    "DisplayName": "candy explosion",
+    "Image": "rbxassetid://94385084851754",
+    "AuthorsNew": "149996007",
+    "Rarity": "Epic"
+  },
+  "Tagbait": {
+    "Description": "LOOK!!!! LOOK!! LIKE AND SUBSCRIBE!!!!!!",
+    "Author": "mpe0111212",
+    "DisplayName": "tagbait",
+    "Image": "rbxassetid://84249474316102",
+    "Rarity": "Rare",
+    "AuthorsNew": "1610108176"
+  },
+  "Collect": {
+    "Description": "I HAVE YOU",
+    "Author": "mpe0111212",
+    "DisplayName": "collect",
+    "Image": "rbxassetid://134251601484349",
+    "Rarity": "Rare",
+    "AuthorsNew": "1610108176"
+  },
+  "GlacialImpale": {
+    "Description": "when freezing isn't enough",
+    "Author": "sydgyx",
+    "DisplayName": "glacial impale",
+    "Image": "rbxassetid://94672876683622",
+    "AuthorsNew": "1028732387",
+    "Rarity": "Legendary"
+  },
+  "JudgementCut": {
+    "Description": "slicing to the atomic level",
+    "Author": "ck7608",
+    "DisplayName": "judgement cut",
+    "Image": "rbxassetid://127943615243120",
+    "AuthorsNew": "678190017",
+    "Rarity": "Mythic"
+  },
+  "ArrowStorm": {
+    "Description": "RAISE SHIELDS, THE ARROWS ARE COMING!!",
+    "Author": "sydgyx",
+    "DisplayName": "arrow storm",
+    "Image": "rbxassetid://119232796422110",
+    "AuthorsNew": "1028732387",
+    "Rarity": "Legendary"
+  },
+  "OldestTrick": {
+    "Description": "bro answer your phone",
+    "Author": "pixool",
+    "DisplayName": "oldest trick",
+    "Image": "rbxassetid://138901316617549",
+    "AuthorsNew": "192583350",
+    "Rarity": "Mythic"
+  },
+  "rpgslash": {
+    "Description": "a slash from a tale of the under variety",
+    "Author": "CrafterRBLXGo",
+    "DisplayName": "rpg slash",
+    "Image": "rbxassetid://85193431324924",
+    "AuthorsNew": "245506607",
+    "Rarity": "Rare"
+  },
+  "PaperGarfield": {
+    "Description": "ohhhhhhh, NOOO!!!!",
+    "Author": "pixool",
+    "DisplayName": "paper garfield",
+    "Image": "rbxassetid://126430178065470",
+    "AuthorsNew": "192583350",
+    "Rarity": "Rare"
+  },
+  "fire": {
+    "Image": "rbxassetid://17610993126",
+    "Description": "Maryland would HATE you",
+    "Rarity": "Epic",
+    "DisplayName": "fire"
+  },
+  "ArenaSpecial": {
+    "Description": "Disgrace. Humiliation. Unseemly and unwelcome at the feet of The Council. Their eyes ablaze with bitter resentment, glaring through Garfield's wounds of BaseParts and Scripts, bore outward for all to see.",
+    "Author": "geocolada",
+    "DisplayName": "arena special",
+    "Image": "rbxassetid://128277828030060",
+    "AuthorsNew": "1448365173",
+    "Rarity": "Outrageous"
+  },
+  "Geometrical": {
+    "Description": "i failed geometry",
+    "Author": "craigalaigg",
+    "DisplayName": "geometrical",
+    "Image": "rbxassetid://101261566539433",
+    "AuthorsNew": "206589099",
+    "Rarity": "Outrageous"
+  },
+  "Terrarium": {
+    "Description": "tagger's living streak was ended",
+    "Author": "craigalaigg",
+    "DisplayName": "terrarium",
+    "Image": "rbxassetid://130050911236334",
+    "AuthorsNew": "206589099",
+    "Rarity": "Outrageous"
+  },
+  "GetRekt": {
+    "Description": "there's a good chance half of you don't understand this",
+    "Author": "debelopment",
+    "DisplayName": "get rekt",
+    "Image": "rbxassetid://108292677858419",
+    "AuthorsNew": "184995393",
+    "Rarity": "Outrageous"
+  },
+  "neon": {
+    "Image": "rbxassetid://17713628358",
+    "Description": "LOOK AT ME LOOK AT ME",
+    "Rarity": "Uncommon",
+    "DisplayName": "neon"
+  },
+  "HopelessClash": {
+    "Description": "there's beauty in simplicity",
+    "Author": "debelopment",
+    "DisplayName": "hopeless clash",
+    "Image": "rbxassetid://119867172376784",
+    "AuthorsNew": "184995393",
+    "Rarity": "Legendary"
+  },
+  "bubbles": {
+    "Description": "change da world. my final message. Goodb ye",
+    "Author": "geocolada",
+    "DisplayName": "bubbles",
+    "Image": "rbxassetid://18326195492",
+    "Rarity": "Legendary",
+    "AuthorsNew": "1448365173"
+  },
+  "Glacier": {
+    "Description": "ice but bigger",
+    "Author": "Squistic",
+    "DisplayName": "glacier",
+    "Image": "rbxassetid://106149028636029",
+    "AuthorsNew": "465782547",
+    "Rarity": "Holiday2024"
+  },
+  "srcragdoll": {
+    "Description": "bethesda works too",
+    "Exclude": true,
+    "Rarity": "Uncommon",
+    "DisplayName": "perish"
+  },
+  "MafiaBoss": {
+    "Description": "thats how mafia works",
+    "Author": "catenary_curve",
+    "DisplayName": "mafioso",
+    "Image": "rbxassetid://125420542183941",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Legendary"
+  },
+  "Yummy": {
+    "Description": "yummy",
+    "Author": "shanedevv",
+    "DisplayName": "yummy",
+    "Image": "rbxassetid://97612048218536",
+    "AuthorsNew": "4747858148",
+    "Rarity": "Rare"
+  },
+  "dingus": {
+    "Image": "rbxassetid://17603523499",
+    "Description": "CHECK OUT DINGUS BY DECIMALCUBED",
+    "Rarity": "Legendary",
+    "DisplayName": "dingus"
+  },
+  "ThreeFiftyM": {
+    "Description": "Happy 350M visits!!",
+    "Author": "pixool",
+    "DisplayName": "350M!",
+    "Image": "rbxassetid://130641159002698",
+    "AuthorsNew": "192583350",
+    "Rarity": "Epic"
+  },
+  "Dazed": {
+    "Description": "i feel like i'm about to throw up",
+    "Author": "SophixieDust",
+    "DisplayName": "dazed",
+    "Image": "rbxassetid://119181001171634",
+    "AuthorsNew": "172739543",
+    "Rarity": "Holiday2024"
+  },
+  "ChezBurger": {
+    "Description": "Mmmmm Chezburger",
+    "Author": "pixool",
+    "DisplayName": "chezburger",
+    "Image": "rbxassetid://105881102463227",
+    "AuthorsNew": "192583350",
+    "Rarity": "Mythic"
+  },
+  "Anvil": {
+    "Description": "As a child I yearned for the mines...",
+    "Author": "pixool",
+    "DisplayName": "anvil",
+    "Image": "rbxassetid://107094374079565",
+    "AuthorsNew": "192583350",
+    "Rarity": "Outrageous"
+  },
+  "ricoshot": {
+    "Description": "BIG TAG",
+    "Author": "zCombay",
+    "DisplayName": "RICOSHOT",
+    "Image": "rbxassetid://130812706245256",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "156438485"
+  },
+  "CarCrash": {
+    "Description": "Just a little accident",
+    "Author": "Dimascpraut",
+    "AdminOnly": true,
+    "DisplayName": "car crash",
+    "Image": "rbxassetid://115718192686891",
+    "AuthorsNew": "2858321130",
+    "Rarity": "TBA"
+  },
+  "Encase": {
+    "Description": "encase em",
+    "Author": "NewGuyNewWay",
+    "DisplayName": "encase",
+    "Image": "rbxassetid://75529361829031",
+    "AuthorsNew": "7309654572",
+    "Rarity": "Epic"
+  },
+  "Fairy": {
+    "Description": "im a lil fairy",
+    "Author": "crumbinsy",
+    "DisplayName": "fairy",
+    "Image": "rbxassetid://75231694729135",
+    "AuthorsNew": "1410243820",
+    "Rarity": "Rare"
+  },
+  "Soap": {
+    "Description": "get your aura away from me bruh",
+    "Author": "SophixieDust",
+    "DisplayName": "soap",
+    "Image": "rbxassetid://71177133848131",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "tomb": {
+    "Description": "RIP 💀",
+    "Author": "geocolada",
+    "DisplayName": "tomb",
+    "Image": "rbxassetid://18322854834",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "1448365173"
+  },
+  "Topiary": {
+    "Description": "carbon neutral",
+    "Author": "NewGuyNewWay",
+    "DisplayName": "topiary",
+    "Image": "rbxassetid://119850049346270",
+    "AuthorsNew": "7309654572",
+    "Rarity": "Mythic"
+  },
+  "Inscrybed": {
+    "Description": "say cheese",
+    "Author": "catenary_curve",
+    "DisplayName": "inscrybed",
+    "Image": "rbxassetid://88733367583100",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Legendary"
+  },
+  "Charred": {
+    "Description": "nope",
+    "Author": "geocolada",
+    "AdminOnly": true,
+    "DisplayName": "charred",
+    "Image": "rbxassetid://18771033402",
+    "Rarity": "Admin",
+    "AuthorsNew": "1448365173"
+  },
+  "clock": {
+    "Description": "tick-tock",
+    "Author": "SophixieDust",
+    "DisplayName": "clock",
+    "Image": "rbxassetid://74069946153505",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "golden": {
+    "Image": "rbxassetid://17603119041",
+    "Description": "king midas could never see his family again",
+    "Rarity": "Epic",
+    "DisplayName": "golden"
+  },
+  "Crit": {
+    "Description": "does not affect tagging damage, sorry",
+    "Author": "mpe0111212",
+    "DisplayName": "critical hit",
+    "Image": "rbxassetid://131444665866322",
+    "Rarity": "Rare",
+    "AuthorsNew": "1610108176"
+  },
+  "Fireworked": {
+    "Description": "AMERICAAAAAA",
+    "Author": "geocolada",
+    "DisplayName": "fireworked",
+    "Image": "rbxassetid://18771066835",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "1448365173"
+  },
+  "Teleportal": {
+    "Description": "transfer someone into the other side",
+    "Author": "NewGuyNewWay",
+    "DisplayName": "teleportal",
+    "Image": "rbxassetid://80108861607652",
+    "AuthorsNew": "7309654572",
+    "Rarity": "Mythic"
+  },
+  "Fizzle": {
+    "Description": "fizzled by a fizzler",
+    "Author": "pixool",
+    "DisplayName": "fizzle",
+    "Image": "rbxassetid://136129712454935",
+    "AuthorsNew": "192583350",
+    "Rarity": "Mythic"
+  },
+  "tagflash": {
+    "Description": "i can do five tag flashes in a row",
+    "Author": "debelopment",
+    "DisplayName": "tag flash",
+    "Image": "rbxassetid://139352639144340",
+    "AuthorsNew": "184995393",
+    "Rarity": "Legendary"
+  },
+  "Balloon": {
+    "Description": "up up and away",
+    "Author": "SophixieDust",
+    "DisplayName": "balloon",
+    "Image": "rbxassetid://105022102701744",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "platformstand": {
+    "Description": "Humanoid:ChangeState(Enum.HumanoidStateType.PlatformStanding)",
+    "Exclude": true,
+    "Rarity": "Rare",
+    "DisplayName": "platformstand"
+  },
+  "Peppermint": {
+    "Description": "Do you have any more?",
+    "Author": "pixool",
+    "DisplayName": "peppermint",
+    "Image": "rbxassetid://113136519496965",
+    "AuthorsNew": "192583350",
+    "Rarity": "Epic"
+  },
+  "KingDeath": {
+    "Image": "rbxassetid://82774642",
+    "Description": "hi u cant use this this is for the initiation king death Duh. Idiot",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "king's death"
+  },
+  "Checkout": {
+    "Description": "that will be $10.00",
+    "Author": "crumbinsy",
+    "DisplayName": "checkout",
+    "Image": "rbxassetid://118631183959936",
+    "AuthorsNew": "1410243820",
+    "Rarity": "Outrageous"
+  },
+  "Hologram": {
+    "Description": "beam me up",
+    "Author": "SophixieDust",
+    "DisplayName": "hologram",
+    "Image": "rbxassetid://83929344513280",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "Mushroom": {
+    "Description": "even nature hates you",
+    "Author": "debelopment",
+    "DisplayName": "mushroom",
+    "Image": "rbxassetid://117790631653593",
+    "AuthorsNew": "184995393",
+    "Rarity": "Outrageous"
+  },
+  "Bitcrusher": {
+    "Description": "harnessing the power of a blackhole",
+    "Author": "DecimalCubed",
+    "DisplayName": "bitcrusher",
+    "Image": "rbxassetid://130786393128356",
+    "AuthorsNew": "68786021",
+    "Rarity": "Outrageous"
+  },
+  "HeartBreak": {
+    "Description": "an average valentines...",
+    "Author": "pixool",
+    "DisplayName": "heartbreak",
+    "Image": "rbxassetid://88531294267113",
+    "AuthorsNew": "192583350",
+    "Rarity": "Valentines2026"
+  },
+  "Shapeshift": {
+    "Description": "When they find you in prop hunt",
+    "Author": "mpe0111212",
+    "DisplayName": "shapeshift",
+    "Image": "rbxassetid://93588381487013",
+    "Rarity": "Epic",
+    "AuthorsNew": "1610108176"
+  },
+  "Slowmo": {
+    "Description": "im so dramatic",
+    "Author": "SophixieDust",
+    "DisplayName": "slowmo",
+    "Image": "rbxassetid://105580573788882",
+    "AuthorsNew": "172739543",
+    "Rarity": "Epic"
+  },
+  "Knockout": {
+    "Description": "GAME!",
+    "Author": "geocolada",
+    "DisplayName": "knockout",
+    "Image": "rbxassetid://18771044035",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "1448365173"
+  },
+  "Ascend": {
+    "Image": "rbxassetid://18459441948",
+    "Description": "WHERE AM I",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "ascend"
+  },
+  "discoparty": {
+    "Description": "everybody dance now!",
+    "Author": "Squistic",
+    "DisplayName": "disco party",
+    "Image": "rbxassetid://17864179927",
+    "Rarity": "Uncommon",
+    "AuthorsNew": "465782547"
+  },
+  "Mountaineer": {
+    "Description": "imploding never looked so good",
+    "Author": "debelopment",
+    "DisplayName": "mountaineer",
+    "Image": "rbxassetid://104111466879308",
+    "AuthorsNew": "184995393",
+    "Rarity": "Legendary"
+  },
+  "SlasherJumpscare": {
+    "Image": "rbxassetid://6673967738",
+    "Description": "for s&k mode :P",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "slasher jumpscare thing"
+  },
+  "SeekGoop": {
+    "Image": "rbxassetid://125158550795540",
+    "Description": "come back here, we're not done~!",
+    "Rarity": "DoorsCollab",
+    "DisplayName": "gooped"
+  },
+  "testing": {
+    "Description": "imploding never looked so good",
+    "Author": "B_lial",
+    "AdminOnly": true,
+    "DisplayName": "testing",
+    "Image": "rbxassetid://104111466879308",
+    "AuthorsNew": "881146999",
+    "Rarity": "Legendary"
+  },
+  "fatality": {
+    "Description": "i swear it's just ketchup",
+    "Author": "ck7608",
+    "DisplayName": "fatality",
+    "Image": "rbxassetid://85750939732276",
+    "AuthorsNew": "678190017",
+    "Rarity": "Legendary"
+  },
+  "Christmas Twee": {
+    "Description": "Where did that come from?",
+    "Author": "pixool",
+    "DisplayName": "christmas twee",
+    "Image": "rbxassetid://76875780485221",
+    "AuthorsNew": "192583350",
+    "Rarity": "Holiday2025"
+  },
+  "bluescreen": {
+    "Image": "rbxassetid://17603157839",
+    "Description": "A problem has been detected and you have been shut down to prevent damage to yourself.",
+    "Rarity": "Epic",
+    "DisplayName": "bluescreen"
+  },
+  "noclip": {
+    "Description": "/sv cheats 1",
+    "Author": "mpe0111212",
+    "DisplayName": "noclip",
+    "Image": "rbxassetid://100617719293907",
+    "Rarity": "Uncommon",
+    "AuthorsNew": "1610108176"
+  },
+  "classic": {
+    "Description": "the only good thing from legacy",
+    "Rarity": "Common",
+    "AdminOnly": true,
+    "DisplayName": "classic"
+  },
+  "nothing": {
+    "Description": "literally nothing happens.",
+    "Price": 0,
+    "Rarity": "",
+    "DisplayName": "nothing"
+  },
+  "RNG": {
+    "Description": "Surely this won't be the new trend Clueless",
+    "Author": "mpe0111212",
+    "DisplayName": "RNG",
+    "Image": "rbxassetid://74267229405458",
+    "Rarity": "Mythic",
+    "AuthorsNew": "1610108176"
+  },
+  "LoveStruck": {
+    "Description": "CUPID PLEASE I NEED THIS. MY RUNNER KINDA TAGLESS RN",
+    "Author": "sydgyx",
+    "DisplayName": "love struck",
+    "Image": "rbxassetid://105426676775691",
+    "AuthorsNew": "1028732387",
+    "Rarity": "Valentines2026"
+  },
+  "Caked": {
+    "Description": "at least it's my favorite flavor",
+    "Author": "catenary_curve",
+    "DisplayName": "caked",
+    "Image": "rbxassetid://134563013488597",
+    "AuthorsNew": "6116981555",
+    "Rarity": "Holiday2024"
+  },
+  "cha ching": {
+    "Image": "rbxassetid://17603020689",
+    "Description": "as a wise man once said; i want [undisclosable luxury car brand], i want money.",
+    "Rarity": "Epic",
+    "DisplayName": "cha ching"
+  },
+  "yoink": {
+    "Description": "GET OVER HERE",
+    "Exclude": true,
+    "Rarity": "Uncommon",
+    "DisplayName": "yoink"
+  },
+  "NoobTransformation": {
+    "Description": "the name says it all",
+    "Author": "SophixieDust and turbo",
+    "DisplayName": "noob transformation",
+    "Image": "rbxassetid://106445925758243",
+    "AuthorsNew": "172739543",
+    "Rarity": "Holiday2024"
+  },
+  "encrypted": {
+    "Description": "YUdrZ2FTQjNZWE4wWldRZ2VXOTFjaUIwYVcxbA==",
+    "Author": "Squistic",
+    "DisplayName": "encrypted",
+    "Image": "rbxassetid://17864510291",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "465782547"
+  },
+  "gib": {
+    "Image": "rbxassetid://17610800099",
+    "Description": "oof",
+    "Rarity": "Rare",
+    "DisplayName": "gib"
+  },
+  "quack": {
+    "Image": "rbxassetid://17602937874",
+    "Description": "TEH EPIK DUCK IS COMING!!!",
+    "Rarity": "Rare",
+    "DisplayName": "quack"
+  },
+  "Repentance": {
+    "Image": "rbxassetid://82890524186520",
+    "Description": "THAT'S WHAT YOU GET!",
+    "Rarity": "DoorsCollab",
+    "DisplayName": "crucifix"
+  }
+}
