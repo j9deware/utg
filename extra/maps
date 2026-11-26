@@ -1,0 +1,1872 @@
+{
+  "bombpassbox": {
+    "Name": "bomb box",
+    "Color": "0.407843, 0.192157, 0.192157 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://78701953358598",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "GrassyHeights": {
+    "Name": "grassy heights",
+    "Color": "0.403922, 0.74902, 0.431373 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://118037547153808",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "SinkingRocketArena": {
+    "Name": "sinking rocket arena",
+    "Color": "0.690196, 0.203922, 0.0392157 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://17448815127"
+  },
+  "HauntedMansion": {
+    "Name": "haunted mansion",
+    "Color": "0.411765, 0.25098, 0.156863 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://117904910840730",
+    "Variants": {
+      "MellowMansion": {
+        "Weight": 1
+      },
+      "DonutShop": {
+        "Weight": 1
+      }
+    }
+  },
+  "BuildAnything": {
+    "Name": "build anything",
+    "Color": "0.615686, 0.615686, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://92860666117332",
+    "Tags": [
+      "Testing"
+    ]
+  },
+  "Port": {
+    "Unavailable": true,
+    "Name": "port",
+    "Color": "0.364706, 0.443137, 0.580392 - (Color3)",
+    "Author": "vert (@verticoz)",
+    "Icon": "rbxassetid://119471836943330",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Balls2": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "balls",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://111270635333643"
+  },
+  "FarronCreek": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "farron creek",
+    "Color": "0.270588, 0.435294, 0.0784314 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://18762633278"
+  },
+  "RealisticGlassHouses": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.419608, 0.682353, 1 - (Color3)",
+    "Author": "codin",
+    "Name": "modern glass houses",
+    "Weight": 20,
+    "Unavailable": true,
+    "Icon": "rbxassetid://102739125051490"
+  },
+  "FrostedFaction": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "frosted action",
+    "Color": "0.282353, 0.717647, 0.917647 - (Color3)",
+    "Author": "kupi (@kupiofficial) & true_pavuk (@ratpi352)",
+    "Icon": "rbxassetid://101945493984707"
+  },
+  "Skeld": {
+    "Name": "the skeld (what)",
+    "Color": "0.423529, 0.2, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://138518977961570",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "TownRoads": {
+    "Unavailable": true,
+    "Name": "town-roads",
+    "Color": "0.243137, 0.576471, 0.223529 - (Color3)",
+    "Author": "BoxGuy67 (@Icantfly67) & BaconDad (@RBX_BaconDad)",
+    "Icon": "rbxassetid://122214357670195",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Playground": {
+    "Name": "playground",
+    "Color": "0.333333, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8829642481",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "UndergroundWar": {
+    "Name": "underground war",
+    "Color": "0.305882, 0.588235, 0.227451 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://138325884301608",
+    "Tags": [
+      "Legacy",
+      "Silly"
+    ]
+  },
+  "Raven rock but I copied it while it was unanchored": {
+    "Name": "raven rock but its unanchored",
+    "Color": "0.34902, 0.45098, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://94762027379837",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "Vacated": {
+    "Name": "vacated",
+    "Color": "0.74902, 0.733333, 0.509804 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://105400572729123",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "InitiationCrossroads": {
+    "Name": "ci crossroads",
+    "Color": "0.290196, 0.160784, 0.545098 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://89292410615831"
+  },
+  "LostCavern": {
+    "Name": "lost caverns",
+    "Color": "0.380392, 0.337255, 0.305882 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://130803538427379",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "SunkenAtoll": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sunken atoll",
+    "Color": "0.0156863, 0.356863, 0.345098 - (Color3)",
+    "Author": "@SnowyCrest",
+    "Icon": "rbxassetid://124966408421459"
+  },
+  "RocketArenaTest": {
+    "Unavailable": false,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "rocket arena",
+    "Color": "0.427451, 0, 0.00784314 - (Color3)",
+    "Author": "redekbo (@redekbob)",
+    "Icon": "rbxassetid://117042408528016"
+  },
+  "MyceliumRavine": {
+    "Unavailable": true,
+    "Name": "Mycelium Ravine",
+    "Color": "0.160784, 0.0941176, 0.364706 - (Color3)",
+    "Author": "Fork (@XxZiegfriedxX)",
+    "Icon": "rbxassetid://110381136280413",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "BloxopolisNew": {
+    "Unavailable": true,
+    "Name": "Bloxopolis",
+    "Color": "0.278431, 0.686275, 1 - (Color3)",
+    "Author": "mypic (@mypic1)  & iBan (@ibanfata)",
+    "Icon": "rbxassetid://128118123614834",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Westside__rock": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.819608, 0.792157, 0.505882 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Name": "westside rock",
+    "Weight": 15,
+    "Unavailable": false,
+    "Icon": "rbxassetid://120890290860010"
+  },
+  "evilRavenRock": {
+    "Variants": {
+      "RavenRockXMAS": {
+        "Weight": 0.75
+      },
+      "RavageRock": {
+        "Weight": 1
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "wraith rock",
+    "Color": "1, 0.388235, 0.14902 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://86667374771234"
+  },
+  "RobloxHQ": {
+    "Unavailable": false,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "roblox hq",
+    "Color": "0.32549, 0.729412, 1 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://128799035859367"
+  },
+  "Bloxburg": {
+    "Name": "bloxburg",
+    "Color": "0.164706, 0.639216, 1 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://15739378255",
+    "Variants": {
+      "TokyoTown": {
+        "Weight": 8
+      },
+      "ModernBloxburg": {
+        "Weight": 5
+      },
+      "Chinatown": {
+        "Weight": 10
+      },
+      "Lava Bloxburg": {
+        "Weight": 10
+      }
+    }
+  },
+  "RavageRock": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "ravage rock ⌛",
+    "Color": "0.47451, 0, 0 - (Color3)",
+    "Author": "sprites (@XanjwarHdALT)",
+    "Icon": "rbxassetid://18762752878"
+  },
+  "CreepyPaths": {
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "creepypaths",
+    "Color": "0.211765, 0.588235, 0.52549 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://96029466690134"
+  },
+  "ActionFaction": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "action faction",
+    "Color": "0.176471, 0.184314, 0.329412 - (Color3)",
+    "Author": "@Xxshotgunfloodchamp1 & @brobrothersforever",
+    "Icon": "rbxassetid://17844407419"
+  },
+  "FactionAction": {
+    "Variants": [],
+    "Name": "faction action (wip)",
+    "Color": "0.156863, 0.160784, 0.290196 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://16748276431"
+  },
+  "SFoTH": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sword fights on the heights",
+    "Color": "1, 0.643137, 0.34902 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://137150131345442"
+  },
+  "Yoricks": {
+    "Name": "yorick's resting place",
+    "Color": "0.329412, 0.129412, 0.00784314 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://114623644024138",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "TexaHexa": {
+    "Name": "texa-hexa",
+    "Color": "0.807843, 0.870588, 0.882353 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://110633917137282",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "MellowMansion": {
+    "Unavailable": true,
+    "Name": "mellow mansion",
+    "Color": "0.741176, 0.988235, 1 - (Color3)",
+    "Author": "vert (@verticoz)",
+    "Icon": "rbxassetid://17844200995",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "MedievalGlassHouses": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "glass castles",
+    "Color": "0.192157, 0.388235, 0.580392 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://126694108606672"
+  },
+  "TokyoTown": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "tokyo town",
+    "Color": "0.290196, 0.160784, 0.545098 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://96503097032757"
+  },
+  "B-Side SantaStronghold": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "santa's stronghold (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://107755638414080"
+  },
+  "Courtyard": {
+    "Name": "courtyard",
+    "Color": "0.262745, 0.172549, 0.32549 - (Color3)",
+    "Icon": "rbxassetid://93639715592068",
+    "Weight": 4
+  },
+  "PeacefulPlateau": {
+    "Unavailable": true,
+    "Name": "peaceful plateau",
+    "Color": "0.239216, 0.596078, 0 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://107233880836521",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "RavenRockXMAS": {
+    "Name": "xmas raven rock",
+    "Color": "0.615686, 0.835294, 0.788235 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://124760556878616",
+    "Tags": [
+      "Seasonal"
+    ]
+  },
+  "SantasStronghold": {
+    "Name": "santa's stronghold",
+    "Color": "0.831373, 0.980392, 1 - (Color3)",
+    "Variants": {
+      "SatansStronghold": {
+        "Weight": 10
+      }
+    },
+    "Icon": "rbxassetid://17448971262"
+  },
+  "ModernBloxburg": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.501961, 0.701961, 1 - (Color3)",
+    "Author": "i dunno",
+    "Name": "modern bloxburg",
+    "Weight": 20,
+    "Unavailable": true,
+    "Icon": "rbxassetid://132794939903703"
+  },
+  "RaceArena": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "race arena",
+    "Color": "0.372549, 0.0745098, 0.0431373 - (Color3)",
+    "Author": "sprites (@XanjwarHdALT)",
+    "Icon": "rbxassetid://18762632472"
+  },
+  "Factory": {
+    "Name": "factory",
+    "Color": "0.356863, 0.341176, 0.321569 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514021187",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "HauntedMansionLegacy": {
+    "Name": "haunted mansion (legacy)",
+    "Color": "0.411765, 0.25098, 0.156863 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8549728884",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "SunsetChasm": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sunset chasm",
+    "Color": "1, 0.54902, 0.180392 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://136828919958297"
+  },
+  "TropicalJamboree": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "tropical jamboree",
+    "Color": "0.556863, 1, 0.458824 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://18762632669"
+  },
+  "UltimatePaintball": {
+    "Unavailable": false,
+    "Name": "ultimate paintball arena",
+    "Color": "0.713726, 0.509804, 1 - (Color3)",
+    "Author": "golden (@Niclekk)",
+    "Icon": "rbxassetid://120512867953325",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "B-Side Crossroads": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "crossroads (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://95971815539021"
+  },
+  "SchoolOfRobloxia": {
+    "Name": "school of ROBLOXia",
+    "Color": "0.654902, 1, 0.529412 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://100146458888100",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "TestGround": {
+    "Name": "test ground",
+    "Color": "0.615686, 0.615686, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://82861252125433",
+    "Tags": [
+      "Testing"
+    ]
+  },
+  "DragonValley": {
+    "Name": "dragon valley",
+    "Color": "0.784314, 0.717647, 0.458824 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://115646079112312",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "MARZ": {
+    "Tags": [
+      "Legacy",
+      "Community",
+      "Competitive"
+    ],
+    "Name": "MARZ",
+    "Color": "0.615686, 0.313726, 0.141176 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://75135081382501"
+  },
+  "TimeZones": {
+    "Name": "time zones",
+    "Color": "0.0784314, 0.666667, 0.521569 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://90748531204303",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "Parkadeant": {
+    "Unavailable": true,
+    "Name": "parkadeant",
+    "Color": "1, 0, 0.0156863 - (Color3)",
+    "Author": "@arcadeant",
+    "Icon": "rbxassetid://137506206064662",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "TeapotTemple": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "1, 0.972549, 0.607843 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Name": "teapot temple",
+    "Weight": 15,
+    "Unavailable": false,
+    "Icon": "rbxassetid://98213317272800"
+  },
+  "ToxicPit": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "toxic pit",
+    "Color": "0, 1, 0.0666667 - (Color3)",
+    "Author": "@ZappyZooms",
+    "Icon": "rbxassetid://113774718243470"
+  },
+  "4Worlds": {
+    "Unavailable": true,
+    "Name": "four worlds",
+    "Color": "0.333333, 0.498039, 0.270588 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://107959598076115",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Frozen Lab 2": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "frozen lab 2",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://129157553663584"
+  },
+  "Skylands": {
+    "Name": "skylands",
+    "Color": "0.290196, 0.160784, 0.545098 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://103570166345124",
+    "VoidGoesToSpawns": true
+  },
+  "DeathBurg": {
+    "Unavailable": true,
+    "Name": "deathburg",
+    "Color": "0.141176, 0.113725, 0.113725 - (Color3)",
+    "Author": "vert (@verticoz)",
+    "Icon": "rbxassetid://94111091378850",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "RocketArenaLegacy": {
+    "Tags": [
+      "Legacy"
+    ],
+    "Name": "rocket arena",
+    "Color": "0.784314, 0.227451, 0.0588235 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9225216251"
+  },
+  "RavenRock": {
+    "Name": "raven rock",
+    "Color": "0.486275, 0.776471, 0.713726 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://15739396912",
+    "Variants": {
+      "ZenRock": {
+        "Weight": 10
+      },
+      "ModernRavenrock": {
+        "Weight": 5
+      },
+      "RavenRanch": {
+        "Weight": 10
+      }
+    }
+  },
+  "B-Side Playground": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "playground (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://85469165207093"
+  },
+  "SandyTracks": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "sandy tracks",
+    "Color": "0.376471, 0.513726, 0.764706 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9522478048"
+  },
+  "Meadowlands": {
+    "Unavailable": true,
+    "Name": "meadow lands",
+    "Color": "0.235294, 0.498039, 0.352941 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://103060821415928",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "BloxCity": {
+    "Name": "blox city (wip)",
+    "Color": "0.47451, 0.956863, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://15739378255"
+  },
+  "Desert": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "desert",
+    "Color": "0.486275, 0.498039, 0.341176 - (Color3)",
+    "Author": "butter (@montemajami)",
+    "Icon": "rbxassetid://122167422342846"
+  },
+  "box": {
+    "Name": "box",
+    "Color": "0.184314, 0.184314, 0.184314 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://94521739706690",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "BloxTag": {
+    "Name": "blox tag",
+    "Color": "0.596078, 0.678431, 0.545098 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514021473",
+    "Tags": [
+      "Legacy",
+      "Community",
+      "Competitive"
+    ]
+  },
+  "FungalRock": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "fungal rock",
+    "Color": "0.643137, 0.235294, 0.976471 - (Color3)",
+    "Author": "FunkyPurple (@0OFunkyPurple)",
+    "Icon": "rbxassetid://95229026850394"
+  },
+  "goldenSFOTH": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "SFOTH (golden and azalea's ver)",
+    "Color": "1, 0.643137, 0.34902 - (Color3)",
+    "Author": "golden (@Niclekk) & maple (@maplazalea)",
+    "Icon": "rbxassetid://87591435486547"
+  },
+  "ZenRock": {
+    "Unavailable": true,
+    "Name": "zen rock",
+    "Color": "1, 0.54902, 0.180392 - (Color3)",
+    "Author": "sprites (@XanjwarHdALT)",
+    "Icon": "rbxassetid://102454630631624",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "FrostRoads": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "frostroads",
+    "Color": "0.564706, 0.647059, 0.568627 - (Color3)",
+    "Author": "@SnowyCrest",
+    "Icon": "rbxassetid://82538836818669"
+  },
+  "BloxCityLegacy": {
+    "Name": "blox city (legacy)",
+    "Color": "0.47451, 0.956863, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://15739378255",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "AquaArena": {
+    "Name": "aqua arena",
+    "Color": "0.290196, 0.290196, 0.890196 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://115850299731296"
+  },
+  "evilBloxburg": {
+    "Variants": {
+      "TokyoTown": {
+        "Weight": 8
+      },
+      "HighwayHavoc": {
+        "Weight": 5
+      },
+      "Chinatown Bloxburg": {
+        "Weight": 10
+      },
+      "Lava Bloxburg": {
+        "Weight": 10
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "bloodburg",
+    "Color": "1, 0.52549, 0.270588 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://137327951705578"
+  },
+  "evilChaosCanyon": {
+    "Variants": {
+      "PeacefulPlateau": {
+        "Weight": 15
+      },
+      "FarronCreek": {
+        "Weight": 15
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "cursed canyon",
+    "Color": "0.647059, 0.184314, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://96114028470868"
+  },
+  "4GlassHouses": {
+    "Name": "4-way glass houses",
+    "Color": "0.333333, 0.666667, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://16719345506"
+  },
+  "ParallelRoads": {
+    "Name": "parallelroads",
+    "Color": "0.329412, 0.792157, 0.215686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://82084775089463"
+  },
+  "Construction": {
+    "Unavailable": true,
+    "Name": "construction",
+    "Color": "0.698039, 0.87451, 0.835294 - (Color3)",
+    "Author": "@TippmanPaintball",
+    "Icon": "rbxassetid://122359923238978"
+  },
+  "FestiveTown": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "festive town (legacy)",
+    "Color": "0.980392, 0.886275, 1 - (Color3)",
+    "Author": "kupi (@kupiofficial) & dylusional (@dylude0)",
+    "Icon": "rbxassetid://104049633579621"
+  },
+  "SwampArena": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "swamp arena",
+    "Color": "0.172549, 0.211765, 0.152941 - (Color3)",
+    "Author": "kupi (@kupiofficial) & iBan (@iDeezBlox)",
+    "Icon": "rbxassetid://95065379610389"
+  },
+  "evilRocketArena": {
+    "Variants": {
+      "AquaArena": {
+        "Weight": 1
+      },
+      "JungleArena": {
+        "Weight": 1.5
+      },
+      "SinkingRocketArena": {
+        "Weight": 0.9
+      },
+      "HighwayHavoc": {
+        "Weight": 1.65
+      },
+      "RaceArena": {
+        "Weight": 1.25
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "rotten arena",
+    "Color": "0.054902, 0.976471, 0 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://106091470074461"
+  },
+  "CrossRoads^2": {
+    "Unavailable": true,
+    "Name": "crossroads^2",
+    "Color": "0.0666667, 0.639216, 0.133333 - (Color3)",
+    "Author": "sune (@ssunareii)",
+    "Icon": "rbxassetid://129188574626439",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "ss2": {
+    "Name": "santa's stronghold reboot (wip)",
+    "Color": "0.831373, 0.980392, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "evilFactionAction": {
+    "Variants": {
+      "ActionFaction": {
+        "Weight": 10
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "frightful faction",
+    "Color": "1, 0.392157, 0.0117647 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://130583723620460"
+  },
+  "FourSides": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "four sided",
+    "Color": "0.67451, 0.74902, 0.607843 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://130666185196422"
+  },
+  "evilSantasStronghold": {
+    "Variants": {
+      "SatansStronghold": {
+        "Weight": 10
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "spectre's stronghold",
+    "Color": "0, 0.517647, 0 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://73678409141768"
+  },
+  "evilCrossRoads": {
+    "Variants": {
+      "ParallelRoads": {
+        "Weight": 15
+      },
+      "Crassruds": {
+        "Weight": 1
+      },
+      "InitiationCrossroads": {
+        "Weight": 1
+      },
+      "Crosspaths": {
+        "Weight": 5
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "creepyroads",
+    "Color": "0.286275, 1, 0.0705882 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://76843444922490"
+  },
+  "RiverBridge": {
+    "Name": "river bridge",
+    "Color": "0.376471, 0.513726, 0.764706 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://101689645045884",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "GlassHousesLegacy": {
+    "Tags": [
+      "Legacy"
+    ],
+    "Name": "glass houses (legacy)",
+    "Color": "0.333333, 0.666667, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8561238171"
+  },
+  "TheSimulation": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "the simulation",
+    "Color": "0.709804, 0.737255, 0.764706 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://109900487896405"
+  },
+  "Randomness": {
+    "Name": "randomness",
+    "Color": "1, 0.882353, 0.458824 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://110372871274376",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "TagOutdoors": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "tag outdoors",
+    "Color": "0.4, 0.631373, 0.419608 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://72993835484923"
+  },
+  "Phantasmagoria": {
+    "Name": "phantasmagoria",
+    "Color": "0, 1, 0.85098 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://15131363195",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "FarronCreek2": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "farcre2",
+    "Color": "0.113725, 0.298039, 0.0705882 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://18762633278"
+  },
+  "ChristmasEve": {
+    "Unavailable": true,
+    "Name": "christmas eve bloxburg",
+    "Color": "0.639216, 0.513726, 0.513726 - (Color3)",
+    "Author": "i dunnor",
+    "Icon": "rbxassetid://137668782900886",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "BloxiaSewers": {
+    "Name": "BLOXia sewers",
+    "Color": "0.235294, 0.309804, 0.223529 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://101569190947407",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "ChaosCloudCity": {
+    "Unavailable": true,
+    "Name": "chaos cloud city",
+    "Color": "0.0666667, 0.639216, 0.133333 - (Color3)",
+    "Author": "maple (@maplazalea)",
+    "Icon": "rbxassetid://84348614507994",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "MallMap": {
+    "Name": "mall",
+    "Color": "0.898039, 0.988235, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://81751684311054",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "Craigville": {
+    "Name": "craigville",
+    "Weight": 20,
+    "Color": "0.243137, 0.227451, 0.203922 - (Color3)",
+    "Icon": "rbxassetid://97664337203841"
+  },
+  "SwampRock": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "swamp rock",
+    "Weight": 15,
+    "Color": "0.0470588, 0.192157, 0.0627451 - (Color3)",
+    "Author": "sprites (@XanjwarHdALT)",
+    "Icon": "rbxassetid://132224331147664"
+  },
+  "BoringBastion": {
+    "Name": "boring bastion",
+    "Color": "0.415686, 0.415686, 0.415686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://107648785850446"
+  },
+  "FightField": {
+    "Name": "fight field",
+    "Color": "0.431373, 0.584314, 0.305882 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://73145935618260",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "TinyBaseplate": {
+    "Name": "tiny baseplate",
+    "Color": "0.407843, 0.407843, 0.407843 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://119516336936071",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "BridgeBonanza": {
+    "Name": "bridge bonanza",
+    "Color": "0.6, 0.545098, 0.439216 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://106676724395321",
+    "Tags": [
+      "Legacy",
+      "Community",
+      "Competitive"
+    ]
+  },
+  "Area51": {
+    "Name": "area 51",
+    "Color": "0.141176, 0.152941, 0.203922 - (Color3)",
+    "Icon": "rbxassetid://74224349966856"
+  },
+  "MoltenMaze": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "molten maze",
+    "Color": "1, 0.4, 0 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://127747591773049"
+  },
+  "JungleArena": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "jungle arena",
+    "Color": "0.00784314, 0.352941, 0.0509804 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://18762632669"
+  },
+  "MovementPlots": {
+    "Name": "movement plots",
+    "Color": "0.388235, 0.423529, 0.439216 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://86895170048683",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "Spleef": {
+    "Unavailable": true,
+    "Name": "spleef",
+    "Color": "0.666667, 0.972549, 1 - (Color3)",
+    "Author": "kupi (@kupiofficial)",
+    "Icon": "rbxassetid://78606249288790",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Bastion": {
+    "Name": "bastion",
+    "Color": "0.309804, 0.298039, 0.25098 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://120204671837108",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "SunsetPlains": {
+    "Name": "sunset plains",
+    "Color": "0.505882, 0.337255, 0.223529 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://103504316917599",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "SFoTHTest": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sword fights on the heights (test)",
+    "Color": "1, 0.643137, 0.34902 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://137150131345442"
+  },
+  "VirtualRoads": {
+    "Tags": [
+      "Silly"
+    ],
+    "Name": "virtual roads",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://93993429759823"
+  },
+  "SnowySettlement": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "Snowy Settlement",
+    "Color": "0.760784, 0.713726, 0.705882 - (Color3)",
+    "Author": "mypic (@mypic1)",
+    "Icon": "rbxassetid://130963870688347"
+  },
+  "nn_CrossRoads": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "nn_crossroads",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://105972089928900"
+  },
+  "WesternOasis": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "western oasis",
+    "Color": "0.647059, 0.423529, 0.337255 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://111379996925785"
+  },
+  "SantasStrongholdLegacy": {
+    "Tags": [
+      "Legacy"
+    ],
+    "Name": "santas stronghold (legacy)",
+    "Color": "0.831373, 0.980392, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8571300913"
+  },
+  "Westside": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "westside",
+    "Color": "0.517647, 0.356863, 0.168627 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514019469"
+  },
+  "B-Side RocketArena Old": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "rocket arena (old b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "AprilFoolsRavenRock": {
+    "Name": "raven rock (legacy)",
+    "Color": "0.486275, 0.776471, 0.713726 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "ParkourCity": {
+    "Name": "parkour city",
+    "Color": "0, 0.682353, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514020265",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "CandyLand": {
+    "Name": "candy land",
+    "Color": "0.968627, 0.545098, 0.839216 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://112441209002369"
+  },
+  "ArtisticMovementism": {
+    "Name": "artistic movementism",
+    "Color": "0.729412, 0.643137, 0.533333 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://139346736806354",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "Colosseum": {
+    "Name": "colosseum",
+    "Color": "1, 0.854902, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514021324",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "ToyCastle": {
+    "Name": "toy castle",
+    "Color": "0.835294, 0.227451, 0.239216 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514019897",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "UndeadEstate": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "undead estate",
+    "Color": "0.85098, 0.337255, 0.917647 - (Color3)",
+    "Author": "maple (@maplazalea)",
+    "Icon": "rbxassetid://71317300690782"
+  },
+  "Bloxopolis": {
+    "Unavailable": true,
+    "Name": "Bloxopolis (Legacy)",
+    "Color": "0.278431, 0.686275, 1 - (Color3)",
+    "Author": "mypic (@mypic1)",
+    "Icon": "rbxassetid://103922914290036",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "CrossRoads": {
+    "Name": "crossroads",
+    "Color": "0.305882, 0.756863, 0.203922 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://15763910669",
+    "Variants": {
+      "ParallelRoads": {
+        "Weight": 15
+      },
+      "TownRoads": {
+        "Weight": 10
+      },
+      "CrossyRoads": {
+        "Weight": 10
+      }
+    }
+  },
+  "Movementism": {
+    "Name": "movementism",
+    "Color": "0.952941, 0.929412, 0.0470588 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://114358974020016",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "SlapArena": {
+    "Name": "slaparena",
+    "Color": "0.305882, 0.756863, 0.203922 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://92287738443024",
+    "VoidGoesToSpawns": true
+  },
+  "Crassruds": {
+    "Name": "crassruds",
+    "Color": "0.380392, 0.458824, 0.294118 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://16737044942"
+  },
+  "Lava Bloxburg": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "climate change bloxburg",
+    "Color": "0.164706, 0.639216, 1 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://18615710706"
+  },
+  "SFoTHLegacy": {
+    "Tags": [
+      "Legacy"
+    ],
+    "Name": "sword fights on the heights",
+    "Color": "0.784314, 0.341176, 0.0235294 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8588104139"
+  },
+  "Dam": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.360784, 0.388235, 0.435294 - (Color3)",
+    "Author": "bobo (@Pokehero132)",
+    "Name": "titanis' reservoir",
+    "Weight": 15,
+    "Unavailable": false,
+    "Icon": "rbxassetid://134944239377724"
+  },
+  "Baseplate": {
+    "Name": "baseplate",
+    "Tags": [
+      "Legacy",
+      "Silly"
+    ],
+    "Color": "0.505882, 0.505882, 0.505882 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://89927529481991"
+  },
+  "biggerbox": {
+    "Name": "bigger box",
+    "Color": "0.129412, 0.129412, 0.129412 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://113344074924691",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "hm2": {
+    "Name": "haunted mansion reboot (wip)",
+    "Color": "0.831373, 0.980392, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "CrossRoadsLegacy": {
+    "Name": "crossroads (legacy)",
+    "Color": "0.156863, 0.498039, 0.278431 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8549729461",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "RavenRanch": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "raven ranch",
+    "Color": "0.576471, 0.776471, 0.427451 - (Color3)",
+    "Author": "@SnowyCrest",
+    "Icon": "rbxassetid://17861155185"
+  },
+  "ModernEraOld": {
+    "Name": "legacy modern era",
+    "Color": "0.737255, 0.317647, 0.0156863 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://123952304951522",
+    "Tags": [
+      "Legacy"
+    ]
+  },
+  "RandomlyGenerated": {
+    "Name": "literally randomly generated",
+    "Color": "0.34902, 0.45098, 0.615686 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://80982237945893",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "Chinatown": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "chinatown bloxburg",
+    "Color": "1, 0.607843, 0.262745 - (Color3)",
+    "Author": "sune (@ssunareii)",
+    "Icon": "rbxassetid://18762632105"
+  },
+  "wuhbluh": {
+    "Name": "wuhbluh",
+    "Color": "0, 0, 0 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "CrossPaths": {
+    "Name": "crosspaths",
+    "Color": "0.47451, 0.815686, 1 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://128276370864973"
+  },
+  "BattlegroundArena": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "battleground arena",
+    "Color": "1, 0.905882, 0.690196 - (Color3)",
+    "Author": "mypic (@mypic1)",
+    "Icon": "rbxassetid://135457015599322"
+  },
+  "GrassHouses": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "grass houses",
+    "Color": "0.196078, 0.372549, 0.196078 - (Color3)",
+    "Author": "@Woomyko",
+    "Icon": "rbxassetid://18762633100"
+  },
+  "DonutShop": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.85098, 0.337255, 0.917647 - (Color3)",
+    "Author": "maple (@maplazalea)",
+    "Name": "donut shop",
+    "Unavailable": true,
+    "Icon": "rbxassetid://123427539456128",
+    "Weight": 11
+  },
+  "CrossyRoads": {
+    "Unavailable": true,
+    "Name": "crossy-roads",
+    "Color": "0.560784, 1, 0.494118 - (Color3)",
+    "Author": "i dunno",
+    "Icon": "rbxassetid://127089536845588",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "evilGlassHouses": {
+    "Variants": {
+      "WalledGlassHouses": {
+        "Weight": 5
+      },
+      "4GlassHouses": {
+        "Weight": 10
+      }
+    },
+    "Tags": [
+      "Seasonal"
+    ],
+    "Name": "ghastly houses",
+    "Color": "1, 0.513726, 0.952941 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://112077936889436"
+  },
+  "ToyArena": {
+    "Name": "toy arena ⌛",
+    "Color": "1, 0.4, 0.321569 - (Color3)",
+    "Author": "Bloxerise (@Squistic)",
+    "Icon": "rbxassetid://126396927728689",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "FestiveTown2": {
+    "Name": "festive town",
+    "Weight": 15,
+    "Color": "0.372549, 0.207843, 0.705882 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://84423907130095"
+  },
+  "ChaosCanyon": {
+    "Variants": {
+      "FarronCreek": {
+        "Weight": 15
+      }
+    },
+    "Name": "chaos canyon",
+    "Color": "0.960784, 0.803922, 0.188235 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://16783021981"
+  },
+  "DuoCross": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "duocross",
+    "Color": "0.4, 0.654902, 0.294118 - (Color3)",
+    "Author": "@Ronkhus",
+    "Icon": "rbxassetid://114178523202873"
+  },
+  "GlassHeadquarters": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "glass headquarters",
+    "Color": "0.0745098, 0.4, 1 - (Color3)",
+    "Author": "maple (@maplazalea)",
+    "Icon": "rbxassetid://111747229623216"
+  },
+  "B-Side SFoTH": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sfoth (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://75690909755664"
+  },
+  "DividedLands": {
+    "Name": "divided lands",
+    "Color": "0.290196, 0.498039, 0.541176 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://111063164286144",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "SFoTH2": {
+    "Unavailable": false,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "sword fights on the heights",
+    "Color": "1, 0.643137, 0.34902 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://106545665288432"
+  },
+  "B-Side RocketArena": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "rocket arena (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://135645851118660"
+  },
+  "HighwayHavoc": {
+    "Name": "highway havoc ⌛",
+    "Color": "0.0901961, 0.537255, 0.560784 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://18762632911",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "B-Side Playground Old": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "playground (old b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://131874758097046"
+  },
+  "B-Side GlassHouses": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "glass houses (b-side)",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://125639625243003"
+  },
+  "ModernRavenrock": {
+    "Tags": [
+      "Community"
+    ],
+    "Color": "0.501961, 0.701961, 1 - (Color3)",
+    "Author": "i dunno",
+    "Name": "modern ravenrock",
+    "Weight": 20,
+    "Unavailable": true,
+    "Icon": "rbxassetid://76327158400123"
+  },
+  "RocketArena": {
+    "Variants": {
+      "AquaArena": {
+        "Weight": 1.65
+      },
+      "ToyArena": {
+        "Weight": 1.65
+      },
+      "HighwayHavoc": {
+        "Weight": 1.65
+      },
+      "BattlegroundArena": {
+        "Weight": 1.65
+      }
+    },
+    "Name": "rocket arena",
+    "Color": "0.690196, 0.14902, 0.0784314 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://17448815127"
+  },
+  "ChaosCanyonLegacy": {
+    "Tags": [
+      "Legacy"
+    ],
+    "Name": "chaos canyon (legacy)",
+    "Color": "0.960784, 0.803922, 0.188235 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://8549729846"
+  },
+  "RuinsBurg": {
+    "Unavailable": true,
+    "Name": "ruinsburg",
+    "Color": "0.545098, 0.67451, 0.482353 - (Color3)",
+    "Author": "i dunnor",
+    "Icon": "rbxassetid://128365255615633",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "ZenithZone": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "zenith zone",
+    "Color": "1, 0.376471, 0.0901961 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://75992218811442"
+  },
+  "Ruination": {
+    "Unavailable": true,
+    "Name": "ruination",
+    "Color": "0.705882, 1, 0.32549 - (Color3)",
+    "Author": "chamber (@chammysss)",
+    "Icon": "rbxassetid://8549729461",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "SatansStronghold": {
+    "Unavailable": true,
+    "Tags": [
+      "Community"
+    ],
+    "Name": "satan's stronghold",
+    "Color": "0.494118, 0.0862745, 0.0705882 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://18762632242"
+  },
+  "WalledGlassHouses": {
+    "Name": "walled glass houses",
+    "Color": "0.309804, 0.501961, 0.784314 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://100130545118625"
+  },
+  "AprilFoolsBloxburg": {
+    "Unavailable": true,
+    "Name": "bloxburg (legacy)",
+    "Color": "0.164706, 0.639216, 1 - (Color3)",
+    "Author": "nerd (@ck7608)",
+    "Icon": "rbxassetid://135645851118660",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "ModernEra": {
+    "Unavailable": true,
+    "Name": "modern era",
+    "Weight": 15,
+    "Color": "0.737255, 0.317647, 0.0156863 - (Color3)",
+    "Author": "@Zora560",
+    "Icon": "rbxassetid://93909862901184"
+  },
+  "SlappyRoads": {
+    "Name": "slappyroads",
+    "Color": "0.305882, 0.756863, 0.203922 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://134100206880668",
+    "VoidGoesToSpawns": true
+  },
+  "Colo2": {
+    "Unavailable": true,
+    "Name": "colo2",
+    "Color": "1, 0.898039, 0.52549 - (Color3)",
+    "Author": "i dunno",
+    "Icon": "rbxassetid://135645851118660",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "menatrobelminesweeper": {
+    "Unavailable": true,
+    "Name": "menatrobel's minesweeper",
+    "Color": "1, 0, 1 - (Color3)",
+    "Author": "@menatrobel & itss (@itssuperman35)",
+    "Icon": "rbxassetid://94554957343097",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "GlassHouses": {
+    "Variants": {
+      "RealisticGlassHouses": {
+        "Weight": 5
+      },
+      "MedievalGlassHouses": {
+        "Weight": 10
+      },
+      "GrassHouses": {
+        "Weight": 10
+      },
+      "WalledGlassHouses": {
+        "Weight": 5
+      }
+    },
+    "Name": "glass houses",
+    "Color": "0.333333, 0.666667, 1 - (Color3)",
+    "Unavailable": false,
+    "Icon": "rbxassetid://16783072453"
+  },
+  "CrossRoads3": {
+    "Name": "cwosswoads :3",
+    "Color": "1, 0, 0.866667 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://137862402184891",
+    "Tags": [
+      "Silly"
+    ]
+  },
+  "FrozenLab": {
+    "Tags": [
+      "Legacy",
+      "Community"
+    ],
+    "Name": "frozen lab",
+    "Color": "0.572549, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://9514021024"
+  },
+  "PizzaPieParlor": {
+    "Unavailable": false,
+    "Name": "pizza pie parlor",
+    "Color": "0.294118, 0.0431373, 0.0470588 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://115683689925683",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "Sinkholes": {
+    "Unavailable": true,
+    "Name": "sinkroads",
+    "Color": "0.305882, 0.756863, 0.203922 - (Color3)",
+    "Author": "chronical (@thatchronical)",
+    "Icon": "rbxassetid://77559566647488",
+    "Tags": [
+      "Community"
+    ]
+  },
+  "PlaygroundFortress": {
+    "Tags": [
+      "Community"
+    ],
+    "Name": "playground fortress",
+    "Color": "1, 1, 1 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://91866526276008"
+  },
+  "Studville": {
+    "Tags": [
+      "Silly",
+      "Testing"
+    ],
+    "Name": "studville (major lag warning)",
+    "Color": "0.47451, 1, 0.607843 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://122487718886127"
+  },
+  "Prison": {
+    "Unavailable": true,
+    "Name": "prison",
+    "Color": "0.380392, 0.462745, 0.615686 - (Color3)",
+    "Author": "i dunno (i dunno)",
+    "Icon": "rbxassetid://107425649387327",
+    "Tags": [
+      "Testing",
+      "Silly",
+      "Community"
+    ]
+  },
+  "Swamp": {
+    "Name": "swamp",
+    "Color": "0.243137, 0.317647, 0.27451 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://131813052955492",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  },
+  "MushroomIsland": {
+    "Name": "mushroom island",
+    "Color": "0.4, 0.231373, 0.631373 - (Color3)",
+    "Unavailable": true,
+    "Icon": "rbxassetid://112312155132501",
+    "Tags": [
+      "Legacy",
+      "Community"
+    ]
+  }
+}
