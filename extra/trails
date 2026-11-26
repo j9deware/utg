@@ -1,0 +1,644 @@
+{
+  "Subspace": {
+    "Image": "rbxassetid://127805047296163",
+    "Description": "you subspace me, i feel it",
+    "Rarity": "Legendary",
+    "Author": "debelopment",
+    "AuthorsNew": "184995393",
+    "DisplayName": "subspace"
+  },
+  "HeartTrail": {
+    "Image": "rbxassetid://134081324901324",
+    "Description": "all the chocolate is crushed...",
+    "Rarity": "Valentines2026",
+    "Author": "kupiofficial",
+    "AuthorsNew": "5815261033",
+    "DisplayName": "chocolate box"
+  },
+  "Decorated Tree": {
+    "Image": "rbxassetid://119243478178568",
+    "Description": "🎄🎄🎄",
+    "Rarity": "Holiday2025",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "decorated tree"
+  },
+  "cape": {
+    "Image": "rbxassetid://134110332064958",
+    "Description": "not really a good idea...",
+    "Rarity": "Epic",
+    "Author": "debelopment",
+    "AuthorsNew": "184995393",
+    "DisplayName": "cape"
+  },
+  "CherryBlossom": {
+    "Image": "rbxassetid://75732328969970",
+    "Description": "there's beauty in elegance",
+    "Rarity": "Epic",
+    "Author": "TotalGameControl",
+    "AuthorsNew": "509318712",
+    "DisplayName": "cherry blossom"
+  },
+  "Cloudy": {
+    "Image": "rbxassetid://18326647234",
+    "Description": "for today's weather report...",
+    "Rarity": "Mythic",
+    "DisplayName": "cloudy"
+  },
+  "Knight": {
+    "Image": "rbxassetid://71566667347344",
+    "Description": "YOU SHALL NOT PASS",
+    "Rarity": "Outrageous",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "knight"
+  },
+  "Kinetic": {
+    "Image": "rbxassetid://18326438814",
+    "Description": "kinetic! sorry i couldn't think of anything",
+    "Rarity": "Outrageous",
+    "DisplayName": "kinetic"
+  },
+  "TankKnight": {
+    "Image": "rbxassetid://82479717612017",
+    "Description": "shield hero who",
+    "Rarity": "Outrageous",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "tank knight"
+  },
+  "OverfilledBriefcase": {
+    "Image": "rbxassetid://134315618073577",
+    "Description": "my boss said if i lose any of the 150 top secret documents in my suitcase i would get fired, i hope i dont lose any of them!",
+    "Rarity": "Epic",
+    "Author": "O9o",
+    "AuthorsNew": "465782547",
+    "DisplayName": "overfilled briefcase"
+  },
+  "RadioHead": {
+    "Image": "rbxassetid://87157581642959",
+    "Description": "CAUSE I'M A-",
+    "Rarity": "Epic",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "radio head"
+  },
+  "ZFight": {
+    "Image": "rbxassetid://17864076801",
+    "Description": "incredibly unsatisfying",
+    "Rarity": "Special",
+    "AdminOnly": true,
+    "DisplayName": "zfight"
+  },
+  "Vantablack": {
+    "Image": "rbxassetid://17863944808",
+    "Description": "blackest black in all of black",
+    "Rarity": "Special",
+    "DisplayName": "vantablack"
+  },
+  "Snowflakes": {
+    "Image": "rbxassetid://117009805981097",
+    "Description": "my back is always so cold",
+    "Rarity": "Holiday2024",
+    "Author": "im_klinxed",
+    "AuthorsNew": "3052742990",
+    "DisplayName": "snowflakes"
+  },
+  "Encrypted": {
+    "Image": "rbxassetid://97284176786893",
+    "Description": "YUdrZ2FTQjNZWE4wWldRZ2VXOTFjaUIwYVcxbA==",
+    "Rarity": "Epic",
+    "Author": "semiserze",
+    "AuthorsNew": "1418024443",
+    "DisplayName": "encrypted"
+  },
+  "PersonalSun": {
+    "Image": "rbxassetid://138097837443460",
+    "Description": "The sun is a deadly laser!",
+    "Rarity": "Mythic",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "personal sun"
+  },
+  "Tron2": {
+    "Image": "rbxassetid://17863978420",
+    "Description": "a VERY long trail",
+    "Rarity": "Outrageous",
+    "DisplayName": "tron 2"
+  },
+  "SaltNPepper": {
+    "Image": "rbxassetid://137656913983685",
+    "Description": "season ur stuff",
+    "Rarity": "Rare",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "salt n' pepper"
+  },
+  "TESTING": {
+    "AuthorsNew": "465782547",
+    "Image": "rbxassetid://130356692411756",
+    "Description": "the missile knows where it is by knowing where it isn't",
+    "Rarity": "Legendary",
+    "Author": "squistic",
+    "AdminOnly": true,
+    "DisplayName": "trail test"
+  },
+  "Comet": {
+    "Image": "rbxassetid://17864039765",
+    "Description": "from le stars",
+    "Rarity": "Mythic",
+    "Variants": {
+      "RainbowComet": {
+        "Image": "rbxassetid://17864041914",
+        "Description": "from le RAINBOW stars",
+        "DisplayName": "rainbow comet"
+      }
+    },
+    "DisplayName": "comet"
+  },
+  "Snarp": {
+    "Image": "rbxassetid://18349781396",
+    "Description": "snarp",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "snarp"
+  },
+  "HomingMissile": {
+    "Image": "rbxassetid://130356692411756",
+    "Description": "the missile knows where it is by knowing where it isn't",
+    "Rarity": "Legendary",
+    "Author": "anlhaaju",
+    "AuthorsNew": "928888421",
+    "DisplayName": "homing missile"
+  },
+  "Segmented": {
+    "Image": "rbxassetid://84801808051345",
+    "Description": "in a constant state of falling apart",
+    "Rarity": "Legendary",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "segmented"
+  },
+  "Visualizer": {
+    "Image": "rbxassetid://18327807153",
+    "Description": "visualizer",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "visualizer"
+  },
+  "Bonsai": {
+    "Image": "rbxassetid://92979687229203",
+    "Description": "this tree is older than me",
+    "Rarity": "Epic",
+    "Author": "im_klinxed",
+    "AuthorsNew": "3052742990",
+    "DisplayName": "bonsai"
+  },
+  "IceSkates": {
+    "Image": "rbxassetid://74440677458669",
+    "Description": "bro i keep sliding",
+    "Rarity": "Holiday2024",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "ice skating"
+  },
+  "CelestialHead": {
+    "Image": "rbxassetid://112441275810803",
+    "Description": "seeing stars",
+    "Rarity": "Legendary",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "celestial head"
+  },
+  "Pride": {
+    "Image": "rbxassetid://17864218140",
+    "Description": "happy pride month! (has several variants!)",
+    "Price": 0,
+    "Rarity": "Special",
+    "Variants": {
+      "Ace": {
+        "Texture": "rbxassetid://17886815136",
+        "DisplayName": "ace"
+      },
+      "Abro": {
+        "Texture": "rbxassetid://17886815404",
+        "DisplayName": "abro"
+      },
+      "Bi": {
+        "Texture": "rbxassetid://17886814920",
+        "DisplayName": "bi"
+      },
+      "Philly": {
+        "Texture": "rbxassetid://17886813645",
+        "DisplayName": "philly"
+      },
+      "WLW": {
+        "Texture": "rbxassetid://17886813002",
+        "DisplayName": "w.l.w."
+      },
+      "Pan": {
+        "Texture": "rbxassetid://17886813869",
+        "DisplayName": "pan"
+      },
+      "MLM": {
+        "Texture": "rbxassetid://17886814289",
+        "DisplayName": "m.l.m."
+      },
+      "ColorsSix": {
+        "Texture": "rbxassetid://17886813458",
+        "DisplayName": "6 color"
+      },
+      "Fluid": {
+        "Texture": "rbxassetid://17886814701",
+        "DisplayName": "fluid"
+      },
+      "Trans": {
+        "Texture": "rbxassetid://17886813269",
+        "DisplayName": "trans"
+      },
+      "NB": {
+        "Texture": "rbxassetid://17886814111",
+        "DisplayName": "n.b."
+      },
+      "Gilbert": {
+        "Texture": "rbxassetid://17886814509",
+        "DisplayName": "gilbert"
+      }
+    },
+    "DisplayName": "pride"
+  },
+  "StringLights": {
+    "Image": "rbxassetid://126511190767654",
+    "Description": "idk where im getting the electricity for these lights",
+    "Rarity": "Holiday2024",
+    "Author": "im_klinxed and jamlovesgigan",
+    "AuthorsNew": "3052742990",
+    "DisplayName": "string lights"
+  },
+  "SpeedCoilTrail": {
+    "Image": "rbxassetid://121922955321836",
+    "Description": "i am speed",
+    "Rarity": "Outrageous",
+    "Author": "maplazalea",
+    "AuthorsNew": "195818320",
+    "DisplayName": "speedcoil"
+  },
+  "Snowflake Power": {
+    "Image": "rbxassetid://93297839816197",
+    "Description": "🥶🥶🥶",
+    "Rarity": "Holiday2025",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "snowflake power"
+  },
+  "Driftin": {
+    "Image": "rbxassetid://99866700655567",
+    "Description": "VROOOOMMMM SKKRRRRRRRRTTTTTT",
+    "Rarity": "Legendary",
+    "Author": "im_klinxed",
+    "AuthorsNew": "3052742990",
+    "DisplayName": "driftin"
+  },
+  "Gradient": {
+    "Image": "rbxassetid://17863990360",
+    "Description": "it fades and stuff",
+    "Rarity": "Uncommon",
+    "Variants": {
+      "LightGradient": {
+        "Image": "rbxassetid://17863990360",
+        "Description": "this is like good and stuff",
+        "DisplayName": "light gradient"
+      },
+      "DarkGradient": {
+        "Image": "rbxassetid://17864071814",
+        "Description": "this is like evil and stuff",
+        "DisplayName": "dark gradient"
+      }
+    },
+    "DisplayName": "gradient"
+  },
+  "Ablaze": {
+    "Image": "rbxassetid://72470168029679",
+    "Description": "catch these hands",
+    "Rarity": "Epic",
+    "Author": "geocolada",
+    "AuthorsNew": "1448365173",
+    "DisplayName": "ablaze"
+  },
+  "Arithmetic": {
+    "Image": "rbxassetid://109418194349719",
+    "Description": "i love squares",
+    "Rarity": "Mythic",
+    "DisplayName": "arithmetic"
+  },
+  "Freedom": {
+    "Image": "rbxassetid://18308449996",
+    "Description": "happy 4th of july!",
+    "Price": 0,
+    "Rarity": "Special",
+    "DisplayName": "freedom"
+  },
+  "RealPNG": {
+    "Image": "rbxassetid://17864006881",
+    "Description": "dude trust me its real",
+    "Rarity": "Rare",
+    "DisplayName": "real PNG"
+  },
+  "MeteorFists": {
+    "Image": "rbxassetid://109844359799496",
+    "Description": "Feeling like meteorite",
+    "Rarity": "Mythic",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "meteor fists"
+  },
+  "Basic": {
+    "Image": "rbxassetid://17864025807",
+    "Description": "i mean yeah its basic",
+    "Rarity": "Common",
+    "DisplayName": "basic"
+  },
+  "GuppyTrail": {
+    "Exclude": true,
+    "Image": "rbxassetid://134730537163768",
+    "Description": "how far have you traveled to get here",
+    "Rarity": "Outrageous",
+    "Author": "geocolada",
+    "AuthorsNew": "1448365173",
+    "DisplayName": "the trail"
+  },
+  "ghostrider": {
+    "Image": "rbxassetid://111664215718754",
+    "Description": "something smell's like it's burning",
+    "Rarity": "Epic",
+    "Author": "anlhaaju",
+    "AuthorsNew": "928888421",
+    "DisplayName": "flaming skull"
+  },
+  "LovePower": {
+    "Image": "rbxassetid://82010141357087",
+    "Description": "love is in the air, and attached to my back...",
+    "Rarity": "Valentines2026",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "love power"
+  },
+  "Plus": {
+    "Image": "rbxassetid://17864011662",
+    "Description": "whats 9 plus 10",
+    "Rarity": "Uncommon",
+    "DisplayName": "+"
+  },
+  "IdeaTrail": {
+    "Image": "rbxassetid://91962390658203",
+    "Description": "eureka!",
+    "Rarity": "Epic",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "idea"
+  },
+  "DraculaWalker": {
+    "Image": "rbxassetid://138694502184347",
+    "Description": "i'm gonna tag your runner or whatever idk",
+    "Rarity": "Outrageous",
+    "Author": "debelopment",
+    "AuthorsNew": "184995393",
+    "DisplayName": "dracula walker"
+  },
+  "Error": {
+    "Image": "rbxassetid://17863984465",
+    "Description": "Sorry for legacy being buggy and stuff Haha",
+    "Rarity": "Special",
+    "DisplayName": "error"
+  },
+  "Illusions": {
+    "Image": "rbxassetid://95968614966478",
+    "Description": "don't get it twisted",
+    "Rarity": "Legendary",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "illusions"
+  },
+  "Sparklinghands": {
+    "Image": "rbxassetid://104217869470190",
+    "Description": "has a small chance of setting you on fire",
+    "Rarity": "Legendary",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "sparkling hands"
+  },
+  "Arrow": {
+    "Image": "rbxassetid://107910338975871",
+    "Description": "just incase you don't know where you're going",
+    "Rarity": "Outrageous",
+    "Author": "EnjoyingObby",
+    "AuthorsNew": "3683428965",
+    "DisplayName": "arrow"
+  },
+  "Sparkletime": {
+    "Image": "rbxassetid://18326479978",
+    "Description": "invented in 670 AD!",
+    "Rarity": "Epic",
+    "DisplayName": "sparkletime"
+  },
+  "Triangle": {
+    "Image": "rbxassetid://82848126817125",
+    "Description": "a trail so sharp taggers might avoid you",
+    "Rarity": "Rare",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "triangle"
+  },
+  "StarTrail": {
+    "Image": "rbxassetid://123459532053700",
+    "Description": "constant state of collapsing",
+    "Rarity": "Outrageous",
+    "Author": "kupiofficial",
+    "AuthorsNew": "5815261033",
+    "DisplayName": "star"
+  },
+  "Box": {
+    "Image": "rbxassetid://17864030354",
+    "Description": "a real 3D trail",
+    "Rarity": "Legendary",
+    "DisplayName": "box"
+  },
+  "ACUnit": {
+    "Image": "rbxassetid://106781578131089",
+    "Description": "anyone feel that breeze?",
+    "Rarity": "Outrageous",
+    "Author": "craigalaigg & squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "ac unit"
+  },
+  "StarBeam": {
+    "Image": "rbxassetid://75176521516465",
+    "Description": "this may be a star, but it won't give you plot armor",
+    "Rarity": "Rare",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "star beam"
+  },
+  "NorthStarTrail": {
+    "Image": "rbxassetid://103998574672329",
+    "Description": "where's my xmas tree",
+    "Rarity": "Epic",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "polaris"
+  },
+  "SecretSanta": {
+    "Image": "rbxassetid://125140431447995",
+    "Description": "please don't be socks",
+    "Rarity": "Holiday2024",
+    "Author": "debelopment",
+    "AuthorsNew": "184995393",
+    "DisplayName": "secret santa"
+  },
+  "frostbite": {
+    "Image": "rbxassetid://121013291938104",
+    "Description": "let me guess you really like freeze",
+    "Rarity": "Epic",
+    "Author": "sydgyx",
+    "AuthorsNew": "1028732387",
+    "DisplayName": "frostbite"
+  },
+  "Whirlpool": {
+    "Image": "rbxassetid://17864105483",
+    "Description": "try not to get sucked in!",
+    "Rarity": "Outrageous",
+    "DisplayName": "whirlpool"
+  },
+  "Spellbook": {
+    "Image": "rbxassetid://103594272510788",
+    "Description": "we luv casting spellz",
+    "Rarity": "Outrageous",
+    "Author": "Snowy_Triton, SophixieDust",
+    "AuthorsNew": "465782547",
+    "DisplayName": "spellbook"
+  },
+  "YinYang": {
+    "Image": "rbxassetid://95360847753992",
+    "Description": "finally.. inner peace.. now what",
+    "Rarity": "Rare",
+    "Author": "Fonzi_2308",
+    "AuthorsNew": "1870130002",
+    "DisplayName": "yinyang"
+  },
+  "Circle": {
+    "Image": "rbxassetid://94668118029675",
+    "Description": "it fits in the square hole",
+    "Rarity": "Rare",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "circle"
+  },
+  "Condiments": {
+    "Image": "rbxassetid://91323946165929",
+    "Description": "where's the relish",
+    "Rarity": "Rare",
+    "Author": "squistic & iSneffles",
+    "AuthorsNew": "465782547",
+    "DisplayName": "condiments"
+  },
+  "Tachophobia": {
+    "Image": "rbxassetid://120969114884655",
+    "Description": "welcome back over priced particle that was essentially a trail",
+    "Rarity": "Epic",
+    "Author": "ck7608",
+    "AuthorsNew": "678190017",
+    "DisplayName": "tachophobia"
+  },
+  "PentagonTrail": {
+    "Image": "rbxassetid://126766395837505",
+    "Description": "This isn't what I meant by the pentagon",
+    "Rarity": "Rare",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "pentagon"
+  },
+  "Boombox": {
+    "AuthorsNew": "465782547",
+    "Image": "rbxassetid://135645851118660",
+    "Description": "test",
+    "Rarity": "Outrageous",
+    "Author": "squistic",
+    "AdminOnly": true,
+    "DisplayName": "boombox"
+  },
+  "T": {
+    "Image": "rbxassetid://17864023152",
+    "Description": "tuh",
+    "Rarity": "Rare",
+    "DisplayName": "T"
+  },
+  "StarRoot": {
+    "Image": "rbxassetid://116492281187463",
+    "Description": "i feel like there's twin plumbers chasing after me",
+    "Rarity": "Outrageous",
+    "Author": "darkmatix_x",
+    "AuthorsNew": "410339523",
+    "DisplayName": "star power"
+  },
+  "V": {
+    "Image": "rbxassetid://17864019154",
+    "Description": "vuh",
+    "Rarity": "Rare",
+    "DisplayName": "V"
+  },
+  "Solid": {
+    "Image": "rbxassetid://18326564387",
+    "Description": "that's pretty solid",
+    "Rarity": "Legendary",
+    "DisplayName": "solid"
+  },
+  "X": {
+    "Image": "rbxassetid://17864016487",
+    "Description": "xuh",
+    "Rarity": "Rare",
+    "DisplayName": "X"
+  },
+  "Stinky": {
+    "Image": "rbxassetid://113669608978837",
+    "Description": "its called aura bruh",
+    "Rarity": "Outrageous",
+    "Author": "Kal_culu5",
+    "AuthorsNew": "149996007",
+    "DisplayName": "stinky"
+  },
+  "JetTrail": {
+    "Image": "rbxassetid://94276284897711",
+    "Description": "if i were to fold, ingenium would die!",
+    "Rarity": "Legendary",
+    "Author": "squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "jet"
+  },
+  "Lovestruck": {
+    "Image": "rbxassetid://125077883906209",
+    "Description": "love bombing isn't enough",
+    "Rarity": "Outrageous",
+    "Author": "im_klinxed",
+    "AuthorsNew": "3052742990",
+    "DisplayName": "lovestruck"
+  },
+  "BitWave": {
+    "Image": "rbxassetid://18326357323",
+    "Description": "so retro",
+    "Rarity": "Outrageous",
+    "DisplayName": "bitwave"
+  },
+  "Tron": {
+    "Image": "rbxassetid://17863981243",
+    "Description": "a very long trail",
+    "Rarity": "Mythic",
+    "DisplayName": "tron"
+  },
+  "AwesomeHumanTrail": {
+    "Image": "rbxassetid://11512453126",
+    "Description": "testing testing 123",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "awesome human trail"
+  }
+}
