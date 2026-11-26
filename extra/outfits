@@ -1,0 +1,2310 @@
+{
+  "Guy": {
+    "Exclude": true,
+    "Image": "rbxassetid://131052407030404",
+    "Description": "see you soon",
+    "Rarity": "Outrageous",
+    "DisplayName": "guy"
+  },
+  "oswald": {
+    "Image": "rbxassetid://17598726922",
+    "Description": "my greatest creation",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "oswald"
+  },
+  "career boy": {
+    "Description": "test",
+    "Author": "nixybelle",
+    "AdminOnly": true,
+    "DisplayName": "career boy",
+    "Image": "rbxassetid://135645851118660",
+    "Rarity": "Epic",
+    "AuthorsNew": "229590000"
+  },
+  "brickbattler": {
+    "Rarity": "Rare",
+    "Image": "rbxassetid://17713547346",
+    "Description": "the original comp",
+    "Author": "Snowycrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "brickbattler"
+  },
+  "Bunny": {
+    "Image": "rbxassetid://112347184275839",
+    "Description": "wanted in 7 states",
+    "Author": "NicolaiXeno",
+    "Rarity": "Outrageous",
+    "DisplayName": "bunny"
+  },
+  "ZACK": {
+    "Description": "i don't really wanna build a snowman",
+    "Author": "00MF00",
+    "DisplayName": "zack",
+    "Image": "rbxassetid://78029236452370",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "721993047"
+  },
+  "MeloBunny": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://104755835076816",
+    "Description": "popipo, but again",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "melo bunny"
+  },
+  "Mummy": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://137890030934340",
+    "Description": "a cadaver",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "mummy"
+  },
+  "Hallows2024_JeffTheKiller": {
+    "LikeAndGroup": true,
+    "Image": "rbxassetid://128300680212360",
+    "Description": "YOU GUYS! WE FOUND THE ORIGINAL!",
+    "Price": 0,
+    "Rarity": "Legendary",
+    "DisplayName": "jeff"
+  },
+  "skeleton": {
+    "Image": "rbxassetid://17580996055",
+    "Description": "man im dead 💀",
+    "Rarity": "Mythic",
+    "DisplayName": "skeleton"
+  },
+  "Leprechaun": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://103464654671517",
+    "Description": "every coin you see is mine",
+    "Author": "BlueGuyDev11231",
+    "AuthorsNew": "932753232",
+    "DisplayName": "leprechaun"
+  },
+  "Bean": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://122856836607258",
+    "Description": "i need a shower",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "ms. bean"
+  },
+  "FallenAngel": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://131634678146634",
+    "Description": "half angel / half demon / cool / rich / single / raised by wolves / has powers / anxious / depressed",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "fallen angel"
+  },
+  "MonsterHouseOutfit": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://113722372778759",
+    "Description": "no trespassing!",
+    "Author": "RealDoctorLeaf",
+    "AuthorsNew": "3884336398",
+    "DisplayName": "haunted house"
+  },
+  "Hallows2024_Headless": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows headless"
+  },
+  "SWAT": {
+    "Description": "protect and serve.",
+    "Author": "crabfish",
+    "Variants": {
+      "SWATNoShield": {
+        "Image": "rbxassetid://18309142066",
+        "Description": "to just serve. serving.",
+        "Price": 0,
+        "Rarity": "",
+        "DisplayName": "SWAT (no shield)"
+      }
+    },
+    "DisplayName": "SWAT",
+    "Image": "rbxassetid://18309068903",
+    "Rarity": "Mythic",
+    "AuthorsNew": "135115672"
+  },
+  "Scout": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://112225487612456",
+    "Description": "Grass Grows, Birds Flies, Sun Shines, And Brother... I Tag People. BONK!",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "scout"
+  },
+  "Pretty Princess": {
+    "Description": "test",
+    "Author": "GlaresOfChaos",
+    "AdminOnly": true,
+    "DisplayName": "pretty princess",
+    "Image": "rbxassetid://135645851118660",
+    "Rarity": "Epic",
+    "AuthorsNew": "320935834"
+  },
+  "FrankMonster": {
+    "Description": "FRANKENSTEIN IS THE GUY NOT THE MONSTER",
+    "Author": "abrahamabugri",
+    "DisplayName": "frank's monster",
+    "Image": "rbxassetid://107371458089882",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "604060894"
+  },
+  "Valentad": {
+    "Rarity": "Valentines2026",
+    "Image": "rbxassetid://137601363140576",
+    "Description": "owner of valentad's funfair",
+    "Author": "forleaveFR",
+    "AuthorsNew": "1207900452",
+    "DisplayName": "valentad"
+  },
+  "Elf": {
+    "Rarity": "Holiday2024",
+    "Image": "rbxassetid://106083769192851",
+    "Description": "i like maple syrup with my spaghetti",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "elf"
+  },
+  "employee": {
+    "Image": "rbxassetid://17581178891",
+    "Description": "man im a great asset to the company 💀",
+    "Exclude": true,
+    "Rarity": "Legendary",
+    "DisplayName": "employee"
+  },
+  "security": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://78871012079422",
+    "Description": "about that bloxy cola i owe ya!",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "security"
+  },
+  "toony": {
+    "Description": "man im all tooned up 💀",
+    "Author": "geocolada",
+    "Variants": {
+      "toonette": {
+        "Image": "rbxassetid://17590297126",
+        "DisplayName": "toonette"
+      }
+    },
+    "DisplayName": "toony",
+    "Image": "rbxassetid://17599383150",
+    "Rarity": "Mythic",
+    "AuthorsNew": "1448365173"
+  },
+  "AngelUTG": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://131345188254118",
+    "Description": "yeah it hurt when i fell from heaven",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "angel"
+  },
+  "SCP096": {
+    "Variants": {
+      "Enraged": {
+        "Image": "rbxassetid://17618539228",
+        "Description": "JOE",
+        "DisplayName": "4 freaking studs"
+      }
+    },
+    "Image": "rbxassetid://17617086834",
+    "Description": "4 freaking studs",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "scp-096"
+  },
+  "Vampire": {
+    "Description": "i want to tag your runner or something idk",
+    "Author": "abrahamabugri",
+    "DisplayName": "vampire",
+    "Image": "rbxassetid://94856671420457",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "604060894"
+  },
+  "littlemen": {
+    "Image": "rbxassetid://17599990066",
+    "Description": "frens :)",
+    "Price": 0,
+    "Rarity": "TBA",
+    "AdminOnly": true,
+    "DisplayName": "little men"
+  },
+  "Blazing": {
+    "Image": "rbxassetid://17590581201",
+    "Description": "le aura",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "blazing"
+  },
+  "ToyFigure": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://18771641611",
+    "Description": "click clack click clack click",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "toy figure"
+  },
+  "Plushie": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://122179105265446",
+    "Description": "its just 200 pledges",
+    "Author": "Xanjwarhdalt",
+    "AuthorsNew": "3170239406",
+    "DisplayName": "plushie"
+  },
+  "stronghold_brute_outfit": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://106501873170625",
+    "Description": "he is a softie at heart",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "the brute"
+  },
+  "trooper": {
+    "Rarity": "CICollab",
+    "Image": "rbxassetid://114739184481680",
+    "Description": "i'm pretty sure half of my weapons are war crime worthy",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "trooper"
+  },
+  "jungle_dweller_outfit": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://18976566375",
+    "Description": "those eyes will be the last thing you see",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "jungle dweller"
+  },
+  "vigilante": {
+    "Rarity": "Rare",
+    "Image": "rbxassetid://113009715850078",
+    "Description": "a long time waiting",
+    "Author": "Niclekk",
+    "AuthorsNew": "724254153",
+    "DisplayName": "vigilante"
+  },
+  "Kimono": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://106063197994396",
+    "Description": "bricks brah",
+    "Author": "TO0N3D",
+    "AuthorsNew": "759807422",
+    "DisplayName": "kimono"
+  },
+  "redekbob": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "imtesting",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "redekbob"
+  },
+  "demonduster": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://122550990529325",
+    "Description": "look at my luscious locks",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "demon duster"
+  },
+  "tagman": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://103000285999507",
+    "Description": "bat man's replacement on sick days",
+    "Author": "arcadeant",
+    "AuthorsNew": "135133548",
+    "DisplayName": "tag man"
+  },
+  "amongus": {
+    "Image": "rbxassetid://17580108039",
+    "Description": "oh my god",
+    "Rarity": "Mythic",
+    "DisplayName": "crewmate"
+  },
+  "MrRobot": {
+    "Image": "rbxassetid://17590371172",
+    "Description": "beep boop",
+    "Rarity": "Legendary",
+    "DisplayName": "mr. robot"
+  },
+  "TreasureFinder": {
+    "Description": "dude i suck at this",
+    "Price": 0,
+    "Author": "shinonWasTaken & 23sanx",
+    "DisplayName": "treasurerer",
+    "Image": "rbxassetid://18769330288",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "AprilFools_Bob": {
+    "AuthorsNew": "1448365173",
+    "Image": "rbxassetid://140537729183176",
+    "Description": "failed clone of bill",
+    "Author": "geocolada",
+    "Rarity": "Transcendental",
+    "DisplayName": "bob"
+  },
+  "Crossroader": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://18321825694",
+    "Description": "upon the crossroad of pursuit and prey, the hunter's path is forged. seek ye those who do you wrong, for in the chase lies the truth",
+    "Author": "TO0N3D",
+    "AuthorsNew": "759807422",
+    "DisplayName": "crossroader"
+  },
+  "RuinGuard": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://112318080069990",
+    "Description": "guard of a kingdom long gone",
+    "Author": "snowycrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "ruin guard"
+  },
+  "Maid": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://127372620913310",
+    "Description": "i lost a bet",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "maid"
+  },
+  "rockdigger": {
+    "Rarity": "Common",
+    "Image": "rbxassetid://99223388507698",
+    "Description": "person who keeps mining",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "rockdigger"
+  },
+  "vaultboy": {
+    "Description": "i feel like war does change but idk that's just me guys",
+    "Price": 0,
+    "Author": "shinonWasTaken & 23sanx",
+    "DisplayName": "vault man",
+    "Image": "rbxassetid://139186300067310",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "InfectionOutfit": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://105356260077125",
+    "Description": "i see you!!!",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "infection"
+  },
+  "card": {
+    "Image": "rbxassetid://18565542713",
+    "Description": "now playable",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "card"
+  },
+  "CandyCadet": {
+    "Rarity": "Holiday2024",
+    "Image": "rbxassetid://133506514652066",
+    "Description": "sometimes i use the candy cane as a back scratcher",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "candy cadet"
+  },
+  "spice merchant": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://72285414479109",
+    "Description": "incredible flavors from afar",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "spice merchant"
+  },
+  "Fortress Crasher": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://94070469844969",
+    "Description": "braver than you know",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "fortress crasher"
+  },
+  "ghoulrider": {
+    "Description": "look into my eyes",
+    "Author": "arcadeant",
+    "DisplayName": "ghoul rider",
+    "Image": "rbxassetid://89989402139338 ",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "135133548"
+  },
+  "Brick": {
+    "Image": "rbxassetid://17598826609",
+    "Description": "bricks brah",
+    "Rarity": "Uncommon",
+    "DisplayName": "brick man"
+  },
+  "Pirate": {
+    "Image": "rbxassetid://118289245091461",
+    "Description": "there's so many thieves in this sea",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "DisplayName": "pirate"
+  },
+  "Gifted": {
+    "Description": "all i want for christmas is u",
+    "Author": "yasailovesyou",
+    "DisplayName": "gifted",
+    "Image": "rbxassetid://73651602481442",
+    "Exclude": true,
+    "Rarity": "Mythic",
+    "AuthorsNew": "669855155"
+  },
+  "Student": {
+    "Image": "rbxassetid://108646799547480",
+    "Description": "why do i always sit by the window",
+    "Rarity": "Legendary",
+    "DisplayName": "student"
+  },
+  "BigShot": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://79182167213614",
+    "Description": "BIG, BIG, [[BIGGER AND BETTER THAN EVER]]",
+    "Author": "yasailovesyou",
+    "AuthorsNew": "669855155",
+    "DisplayName": "BIG SHOT"
+  },
+  "Astronaut": {
+    "Description": "there's a starman",
+    "Price": 0,
+    "Author": "shinonWasTaken & 23sanx",
+    "Variants": {
+      "AstronautHalf": {
+        "Image": "rbxassetid://18868882900",
+        "Description": "OHHHH HE DEAD",
+        "DisplayName": "astronaut (open helmet)"
+      }
+    },
+    "DisplayName": "astronaut",
+    "Image": "rbxassetid://18868881503",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "drone": {
+    "Image": "rbxassetid://17600045598",
+    "Description": "nicolai's test boy",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "droneTest"
+  },
+  "Jester": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://90068073267489",
+    "Description": "i'm turning into jester!!!!",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "jester"
+  },
+  "Kitty": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://76311030218641",
+    "Description": "sweet, sharp, and ready for duty",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "kitty"
+  },
+  "creeper": {
+    "Image": "rbxassetid://17599553547",
+    "Description": "minecraft's grim reaper",
+    "Rarity": "Rare",
+    "DisplayName": "creeper"
+  },
+  "subspacePossess": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://17580974595",
+    "Description": "i subspace you, you feel it",
+    "Author": "geocolada",
+    "AuthorsNew": "1448365173",
+    "DisplayName": "subspace"
+  },
+  "mannequin": {
+    "Image": "rbxassetid://17599202639",
+    "Description": "don't look away...",
+    "Rarity": "Epic",
+    "DisplayName": "mannequin"
+  },
+  "AprilFools_Bacon": {
+    "Image": "rbxassetid://109671191588684",
+    "Description": "formerly known as BloxMan. sorta",
+    "Rarity": "Transcendental",
+    "DisplayName": "bacon"
+  },
+  "SB_Pablo": {
+    "Description": "HEHEHEHE YES, SUIT UP!",
+    "Author": "shinon",
+    "DisplayName": "pablo",
+    "Image": "rbxassetid://109886832085407",
+    "Rarity": "SlapBattlesCollab",
+    "AuthorsNew": "704409337"
+  },
+  "Urotsuki": {
+    "Image": "rbxassetid://17600714112",
+    "Description": "moderator",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "urotsuki"
+  },
+  "doge": {
+    "Image": "rbxassetid://17590395193",
+    "Description": "much outfit! very swag.",
+    "Rarity": "Epic",
+    "DisplayName": "doge"
+  },
+  "Chicken": {
+    "Image": "rbxassetid://17636885833",
+    "Description": "please dont tell me this thing makes the noise",
+    "Rarity": "Legendary",
+    "DisplayName": "chicken"
+  },
+  "Sweater": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://128527363280887",
+    "Description": "who spells neighborhood with a u",
+    "Author": "yasailovesyou",
+    "AuthorsNew": "669855155",
+    "DisplayName": "sweater weather"
+  },
+  "paintball": {
+    "Image": "rbxassetid://17598629830",
+    "Description": "the first outfit we added! LETS SEE IF IT WORKS",
+    "Rarity": "Rare",
+    "DisplayName": "paintball gear"
+  },
+  "Demo": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://18869465779",
+    "Description": "one twitch of potassium chloride",
+    "Author": "Squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "demo"
+  },
+  "Dragonborn": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://106553278879680",
+    "Description": "must have been the wind",
+    "Author": "arcadeant & 8_Xewu27",
+    "AuthorsNew": "135133548",
+    "DisplayName": "dragonborn"
+  },
+  "bomberman_outfit": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://117519768723036",
+    "Description": "gangster hillyblox? haven't heard that name in ages...",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "bomberman"
+  },
+  "the shadow": {
+    "Image": "rbxassetid://17599677009",
+    "Description": "you're crazy im not even here",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "the shadow"
+  },
+  "KingWin": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "whuh",
+    "Rarity": "Special",
+    "AdminOnly": true,
+    "DisplayName": "king (winner)"
+  },
+  "medivalknight": {
+    "Image": "rbxassetid://122947897146614",
+    "Description": "tagging for a righteous cause",
+    "Rarity": "Outrageous",
+    "DisplayName": "sacred knight"
+  },
+  "Sleep": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://101159726715308",
+    "Description": "zzzzzzzzz....",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "sleep"
+  },
+  "CyberArms": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://75226939821141",
+    "Description": "quadruple the tagging",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "cyber arms"
+  },
+  "Split": {
+    "Image": "rbxassetid://102455348215066",
+    "Description": "don't get on my bad side",
+    "Rarity": "Legendary",
+    "DisplayName": "split"
+  },
+  "package": {
+    "Image": "rbxassetid://17599622925",
+    "Description": "ever visit the mall of robloxia?",
+    "Rarity": "Uncommon",
+    "DisplayName": "package giver"
+  },
+  "simplicity": {
+    "Image": "rbxassetid://17580746343",
+    "Description": "minimalist design",
+    "Rarity": "Rare",
+    "Variants": {
+      "Semi Simplicity": {
+        "Image": "rbxassetid://17616225032",
+        "Description": "now with notches",
+        "DisplayName": "semi simplicity"
+      }
+    },
+    "DisplayName": "simplicity"
+  },
+  "untanieled": {
+    "Image": "rbxassetid://17590328425",
+    "Description": "the infamouser",
+    "Price": 0,
+    "Rarity": "Special",
+    "DisplayName": "untanieled"
+  },
+  "SuperTagger": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://82573960861069",
+    "Description": "i have the sudden urge to farm",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "super tagger"
+  },
+  "Hallows2024_Skeleton": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows skeleton"
+  },
+  "theworm": {
+    "Description": "im just wormin' around",
+    "Price": 0,
+    "Author": "the worm",
+    "AdminOnly": true,
+    "DisplayName": "the worm™",
+    "Image": "rbxassetid://17580766134",
+    "Variants": {
+      "The Grub": {
+        "Image": "rbxassetid://17615864998",
+        "Description": "my second greatest creation",
+        "DisplayName": "the grub™"
+      },
+      "Round Worm": {
+        "Image": "rbxassetid://17663761950",
+        "Description": "this is like equivalent to apple releasing a new phone",
+        "DisplayName": "roundworm™"
+      }
+    },
+    "Rarity": "Admin"
+  },
+  "bobby": {
+    "Rarity": "CICollab",
+    "Image": "rbxassetid://108805651682269",
+    "Description": "this shield is killing my back",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "bobby"
+  },
+  "ClownUTG": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://76894470385324",
+    "Description": "honk honk",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "clown"
+  },
+  "chemist": {
+    "Description": "test",
+    "Author": "nixybelle",
+    "AdminOnly": true,
+    "DisplayName": "chemist",
+    "Image": "rbxassetid://135645851118660",
+    "Rarity": "Epic",
+    "AuthorsNew": "229590000"
+  },
+  "silverfit": {
+    "Image": "rbxassetid://17599312072",
+    "Description": "Check out Blox Hunt, Dragon Rage, and more!",
+    "Rarity": "Epic",
+    "DisplayName": "silver fit"
+  },
+  "Hallows2024_SmileDog": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows smile dog"
+  },
+  "markiplier": {
+    "Image": "rbxassetid://1739858881",
+    "Description": "hello everybody",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "markiplier"
+  },
+  "TrackRunner": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://17713547536",
+    "Description": "she a runner she a trackstar",
+    "Author": "maplazalea & shaddinaround",
+    "AuthorsNew": [
+      "195818320",
+      "179214622"
+    ],
+    "DisplayName": "track runner"
+  },
+  "god": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "do NOT put this in the hands of the public",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "god"
+  },
+  "BlueWizard": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://104538443056211",
+    "Description": "strength will only take you so far",
+    "Author": "BlueGuyDev11231",
+    "AuthorsNew": "932753232",
+    "DisplayName": "battle mage"
+  },
+  "cola": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://109554296652420",
+    "Description": "are you thirsty?",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "cola"
+  },
+  "Pal": {
+    "Rarity": "Rare",
+    "Image": "rbxassetid://118091828780969",
+    "Description": "choose your character",
+    "Author": "BimmyTheChimney",
+    "AuthorsNew": "7964571057",
+    "DisplayName": "pal"
+  },
+  "CasualFit": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://87223537770551",
+    "Description": "i'm just a casual guy",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "casual fit"
+  },
+  "StarWarrior": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://121573110687514",
+    "Description": "it's a shooting star, make a wish!",
+    "Author": "Eef_x3",
+    "AuthorsNew": "177714903",
+    "DisplayName": "star warrior"
+  },
+  "painter_outfit": {
+    "Description": "how do u paint idk why im here LOL",
+    "Author": "SnowyCrest",
+    "DisplayName": "painter",
+    "Image": "rbxassetid://18976566207",
+    "Exclude": true,
+    "Rarity": "Mythic",
+    "AuthorsNew": "687076701"
+  },
+  "garfield": {
+    "Image": "rbxassetid://17580699919",
+    "Description": "the best boy!",
+    "Rarity": "Uncommon",
+    "Variants": {
+      "Reggie": {
+        "LayoutOrder": 1,
+        "Image": "rbxassetid://17581451755",
+        "Description": "reginald",
+        "DisplayName": "reggie"
+      },
+      "Tourist": {
+        "LayoutOrder": 99,
+        "Image": "rbxassetid://17615695818",
+        "Description": "wish you were here!",
+        "DisplayName": "tourist"
+      }
+    },
+    "DisplayName": "garfield"
+  },
+  "PeanutButterJelly": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://18763673427",
+    "Description": "there he go there he go there he go there he go",
+    "Author": "Stevonthy",
+    "AuthorsNew": "254059916",
+    "DisplayName": "pb&j"
+  },
+  "TaggerDrone": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://122272109562996",
+    "Description": "Just A Friendly Neighborhood Corporate Tagger Bot",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "tagger drone"
+  },
+  "guest": {
+    "Image": "rbxassetid://17581016291",
+    "Description": "make a free account to change how you look!",
+    "Rarity": "Epic",
+    "DisplayName": "guest"
+  },
+  "show host": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://125917979217953",
+    "Description": "WHOOOOAAAAA MAMA HEY WHAT THE WHAT THE...",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "show host"
+  },
+  "Janitor": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://18771492464",
+    "Description": "im moppin 'ere",
+    "Author": "ChandelureBoi & Niclekk",
+    "AuthorsNew": [
+      "1632374261",
+      "724254153"
+    ],
+    "DisplayName": "janitor"
+  },
+  "THEBLOXER": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://128250763905061",
+    "Description": "nowhere left to run",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "the bloxler"
+  },
+  "gorilla": {
+    "Image": "rbxassetid://85699219864295",
+    "Description": "shoutout",
+    "Rarity": "Special",
+    "DisplayName": "gorilla"
+  },
+  "Nutcracker": {
+    "Rarity": "Holiday2024",
+    "Image": "rbxassetid://81539401661594",
+    "Description": "im allergic to peanuts",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "Nutcracker"
+  },
+  "Knight": {
+    "Description": "LEEEEEROOOOOOOOOOY JENKIIIIINNNS",
+    "Price": 0,
+    "Author": "shinonWasTaken & 23sanx",
+    "Variants": {
+      "PearlescantKnight": {
+        "Image": "rbxassetid://18769075193",
+        "Description": "shiny! don't touch, please",
+        "DisplayName": "pearlescant knight"
+      }
+    },
+    "DisplayName": "knight",
+    "LikeAndGroup": true,
+    "Image": "rbxassetid://18309579270",
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "nightguard": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://116287517793946",
+    "Description": "it be the nightguard",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "nightguard"
+  },
+  "GhostMod": {
+    "Image": "rbxassetid://17601053684",
+    "Description": "moderator",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "ghost mod"
+  },
+  "WINSTON": {
+    "Description": "do you wanna build a snowman?",
+    "Author": "00MF00",
+    "DisplayName": "winston",
+    "Image": "rbxassetid://114789370078148",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "721993047"
+  },
+  "player": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://71865691519473",
+    "Description": "I'VE NEVER PLAYED THESE GAMES BEFORE!?",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "player"
+  },
+  "Mimic": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://121669657587452",
+    "Description": "this one elf girl thinks i'm a real chest",
+    "Author": "8_Xewu27",
+    "AuthorsNew": "2471826222",
+    "DisplayName": "mimic"
+  },
+  "Gameblox": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://18627053960",
+    "Description": "pls dont sue us",
+    "Author": "TO0N3D",
+    "AuthorsNew": "759807422",
+    "DisplayName": "gameblox"
+  },
+  "KillDroid": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://84524402332805",
+    "Description": "Timmy Must Pay...",
+    "Author": "Squistic",
+    "AuthorsNew": "229590000",
+    "DisplayName": "killdroid"
+  },
+  "Wellington": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "(you shouldn't have this lol)",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "wellington"
+  },
+  "ToyNico": {
+    "Image": "rbxassetid://17590581201",
+    "Description": "its him",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "toy Nicolai"
+  },
+  "AngelGoddessStaffless": {
+    "Description": "goddess of light",
+    "Author": "GlaresOfChaos",
+    "Variants": {
+      "AngelGoddess": {
+        "Image": "rbxassetid://103577096636383",
+        "Description": "goddess of light",
+        "Rarity": "Outrageous",
+        "DisplayName": "angel goddess (staff)"
+      }
+    },
+    "DisplayName": "angel goddess",
+    "Image": "rbxassetid://103577096636383",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "320935834"
+  },
+  "Cardiobunny": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://18312589833",
+    "Description": "murderous tendencies out the wazoo",
+    "Author": "shinonWasTaken & 23sanx",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ],
+    "DisplayName": "cardiobunny"
+  },
+  "Samurai": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://136640068908045",
+    "Description": "the strongest of his era",
+    "Author": "Squistic",
+    "AuthorsNew": "229590000",
+    "DisplayName": "samurai"
+  },
+  "bear": {
+    "Image": "rbxassetid://18764066012",
+    "Description": "dude hes from that game",
+    "Rarity": "Outrageous",
+    "DisplayName": "bear"
+  },
+  "punk": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://136157793938499",
+    "Description": "i used to hunt vampires",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "punk"
+  },
+  "AngelDuster": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://136301637456460",
+    "Description": "look at my luscious locks",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "angel duster"
+  },
+  "Delinquent": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://94397170995471",
+    "Description": "what ya looking at punk",
+    "Author": "Squistic",
+    "AuthorsNew": "229590000",
+    "DisplayName": "delinquent"
+  },
+  "Plumber": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://70496204530522",
+    "Description": "mamma mia!",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "plumber"
+  },
+  "Hallows2024_WitchHat": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows witchhat"
+  },
+  "Bounder": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://94259860935344",
+    "Description": "from playgrounds to the battlefield",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "bounder"
+  },
+  "Clockwise": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://140387725569242",
+    "Description": "tick-tock",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "clockwise"
+  },
+  "outline": {
+    "Image": "rbxassetid://17598799271",
+    "Description": "dude I can't tell if he has ntb or not this sucks",
+    "Rarity": "Legendary",
+    "DisplayName": "outline"
+  },
+  "glassblower": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://73232748278350",
+    "Description": "the last glass bender",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "glassblower"
+  },
+  "Roswell": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://17863914821",
+    "Description": "nothing happened in 1947",
+    "Author": "uglyburger0",
+    "AuthorsNew": "22718068",
+    "DisplayName": "roswell"
+  },
+  "boss zombie": {
+    "Image": "rbxassetid://17580113724",
+    "Description": "holy",
+    "Rarity": "Legendary",
+    "DisplayName": "boss zombie"
+  },
+  "Truck": {
+    "Description": "how do you type out the transformers noise",
+    "Price": 25000,
+    "Author": "ck7608",
+    "AdminOnly": true,
+    "DisplayName": "truck",
+    "Image": "rbxassetid://18628306440",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "678190017"
+  },
+  "CanyonConstable": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://17859344476",
+    "Description": "hawyee",
+    "Author": "snowycrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "canyon constable"
+  },
+  "FishSkin": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://129143482122700",
+    "Description": "YOU KNOW WHAT THAT MEANS!",
+    "Author": "The_Basket",
+    "AuthorsNew": "50918109",
+    "DisplayName": "fish"
+  },
+  "oh god": {
+    "Description": "Oh",
+    "Author": "crabfish",
+    "DisplayName": "oh",
+    "Image": "rbxassetid://17598858545",
+    "Exclude": true,
+    "Rarity": "Legendary",
+    "AuthorsNew": "135115672"
+  },
+  "AprilFools_Blockhead": {
+    "Image": "rbxassetid://116237959113814",
+    "Description": "I... am It.",
+    "Rarity": "Transcendental",
+    "OverwriteRoleOutfits": {
+      "BBomb": "AprilFools_Blockhead_Bomb",
+      "Bomb": "AprilFools_Blockhead_Bomb"
+    },
+    "DisplayName": "blockhead"
+  },
+  "PixelBunny": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://117227457460509",
+    "Description": "the bite of...",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "pixel bunny"
+  },
+  "trash": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://139047280416311",
+    "Description": "what is it doing?",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "trash"
+  },
+  "AnActualCar": {
+    "Image": "rbxassetid://17599471688",
+    "Description": "literally just a car",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "a car"
+  },
+  "GHOUL": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://125244052961414",
+    "Description": "why high vault when i can just fly",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "ghoul"
+  },
+  "Runner Plush": {
+    "Rarity": "Holiday2025",
+    "Image": "rbxassetid://111262054338170",
+    "Description": "untitled merch game",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "runner plush"
+  },
+  "farmer": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://96053665485058",
+    "Description": "he had a farm",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "farmer"
+  },
+  "Crusader": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://97861056287300",
+    "Description": "IS THIS WHO I LOST TO!",
+    "Author": "BlueGuyDev11231",
+    "AuthorsNew": "932753232",
+    "DisplayName": "crusader"
+  },
+  "climber": {
+    "Description": "i rise up again",
+    "Author": "SnowyCrest",
+    "DisplayName": "climber",
+    "Image": "rbxassetid://139378574476492",
+    "Exclude": true,
+    "Rarity": "Legendary",
+    "AuthorsNew": "687076701"
+  },
+  "WITCH": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://100348995088653",
+    "Description": "WIIIIITCH",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "elder witch"
+  },
+  "Slim": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://109332746667535",
+    "Description": "collect them",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "slim man"
+  },
+  "businessman": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://77473283823941",
+    "Description": "business is boomin!",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "businessman"
+  },
+  "Foxie": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://90636858267104",
+    "Description": "silly fox",
+    "Author": "BlueGuy",
+    "AuthorsNew": "932753232",
+    "DisplayName": "foxie"
+  },
+  "Buzzer": {
+    "Description": "bzzz!!!",
+    "Price": 0,
+    "Author": "Eef_X3",
+    "DisplayName": "buzzer",
+    "LikeAndGroup": true,
+    "Image": "rbxassetid://18771314471",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "177714903"
+  },
+  "thundxr": {
+    "Image": "rbxassetid://17600151726",
+    "Description": "hi ray",
+    "Price": 0,
+    "Rarity": "Special",
+    "DisplayName": "thundxr"
+  },
+  "classicZombie": {
+    "Image": "rbxassetid://17580943639",
+    "Description": "braiiinz",
+    "Rarity": "Common",
+    "DisplayName": "zombie"
+  },
+  "classic": {
+    "Image": "rbxassetid://17598759531",
+    "Description": "back to 2008",
+    "Rarity": "Common",
+    "Variants": {
+      "template": {
+        "Image": "rbxassetid://17599770276",
+        "Description": "shoutout my boy Dummy",
+        "Price": 0,
+        "Rarity": "",
+        "DisplayName": "template"
+      }
+    },
+    "DisplayName": "classic"
+  },
+  "AprilFools_Dynamic": {
+    "Image": "rbxassetid://105868675164722",
+    "Description": "NOW we're classic",
+    "Rarity": "Transcendental",
+    "DisplayName": "dynamic"
+  },
+  "StarGuardian": {
+    "Rarity": "Admin",
+    "Image": "rbxassetid://90068073267489",
+    "Description": "wip idk",
+    "Author": "Eef_x3",
+    "AuthorsNew": "177714903",
+    "DisplayName": "star guardian"
+  },
+  "Elf Warrior": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://100626466467072",
+    "Description": "the hero of every timeline",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "elf warrior"
+  },
+  "chef": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://85890353747017 ",
+    "Description": "anyone can cookL",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "meatball"
+  },
+  "Nightstitch": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://83139212250841",
+    "Description": "the midnight thread tying fear to beauty",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "nightstitch"
+  },
+  "mushroom": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://81881502356314 ",
+    "Description": "its a mushroom",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "mushroom"
+  },
+  "Snowman": {
+    "Rarity": "Holiday2024",
+    "Image": "rbxassetid://104959605588933",
+    "Description": "did that just move?",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "snowman"
+  },
+  "ew": {
+    "Image": "rbxassetid://17580852557",
+    "Description": "idek what this is",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "ew"
+  },
+  "AprilFools_Rock": {
+    "Image": "rbxassetid://97215158809159",
+    "Description": "🗿",
+    "Price": 1000,
+    "Rarity": "Transcendental",
+    "DisplayName": "rock"
+  },
+  "Doors_FigureOutfit": {
+    "Rarity": "DoorsCollab",
+    "Image": "rbxassetid://133498353798339",
+    "Description": "dude my sense of hearing is amazing",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "figure"
+  },
+  "AprilFools_FriendBall": {
+    "AuthorsNew": "153586043",
+    "Image": "rbxassetid://118644409666821",
+    "Description": "It's the Friend Man!",
+    "Author": "verticoz",
+    "Rarity": "Transcendental",
+    "DisplayName": "friend man"
+  },
+  "Mark": {
+    "Rarity": "CICollab",
+    "Image": "rbxassetid://87153017013139",
+    "Description": "i spy with my little eye",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "mark"
+  },
+  "Detective": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://18309980307",
+    "Description": "You are: Detective",
+    "Author": "shinonWasTaken & 23sanx",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ],
+    "DisplayName": "detective"
+  },
+  "AprilFools_CakeOutfit": {
+    "Image": "rbxassetid://121305884638732",
+    "Description": "those who know",
+    "Rarity": "Transcendental",
+    "DisplayName": "cake"
+  },
+  "ItsThump": {
+    "Image": "rbxassetid://14606409728",
+    "Description": "Wee toddler",
+    "Price": 0,
+    "Rarity": "Special",
+    "DisplayName": "thump"
+  },
+  "Slenderman": {
+    "Image": "rbxassetid://18823365296",
+    "Description": "Collect my pages",
+    "Rarity": "TBA",
+    "AdminOnly": true,
+    "DisplayName": "slenderman"
+  },
+  "browncoat": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://75324262176418",
+    "Description": "brains...",
+    "Author": "ChandelureBoi & Niclekk",
+    "AuthorsNew": [
+      "1632374261",
+      "724254153"
+    ],
+    "DisplayName": "browncoat"
+  },
+  "paralysis": {
+    "Description": "Help",
+    "Rarity": "Rare",
+    "DisplayName": "paralysis"
+  },
+  "KombatNinja": {
+    "Description": "GET OVER HERE!",
+    "Author": "arcadeant",
+    "Variants": {
+      "Kombat Ninja No Hood": {
+        "Image": "rbxassetid://123933910818562",
+        "Description": "GET OVER HERE!",
+        "Rarity": "Epic",
+        "DisplayName": "Kombatant (hoodless)"
+      }
+    },
+    "DisplayName": "kombatant",
+    "Image": "rbxassetid://123933910818562",
+    "Rarity": "Epic",
+    "AuthorsNew": "135133548"
+  },
+  "Spy": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://80948809243368",
+    "Description": "Intruder Alert!, Red Tagger In The Base!",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "spy"
+  },
+  "Doll": {
+    "Rarity": "Rare",
+    "Image": "rbxassetid://108319725726962",
+    "Description": "uncanny",
+    "Author": "sillybilly",
+    "AuthorsNew": "196578139",
+    "DisplayName": "doll"
+  },
+  "Bomb Plush": {
+    "Rarity": "Holiday2025",
+    "Image": "rbxassetid://81629519124063",
+    "Description": "untitled bomb merch game",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "bomb plush"
+  },
+  "DarkSlayer": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://114384621422941",
+    "Description": "omae wa mou shindeiru",
+    "Author": "arcadeant",
+    "AuthorsNew": "135133548",
+    "DisplayName": "dark slayer"
+  },
+  "CrownGlitcher": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://79370064763956",
+    "Description": "i win solo-crown 100% of the time",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "crown glitcher"
+  },
+  "Bloxxer": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://18760981131",
+    "Description": "WE TAKE THESEEE WE SWEEEEEEP",
+    "Author": "TO0N3D",
+    "AuthorsNew": "759807422",
+    "DisplayName": "bloxxer"
+  },
+  "BrickBuilder": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://17859344695",
+    "Description": "plong plong plong boom plong plong click",
+    "Author": "snowycrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "brick builder"
+  },
+  "WheelChairMan": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://103558457613862",
+    "Description": "cant stop wont stop",
+    "Author": "pwnroast",
+    "AuthorsNew": "34598094",
+    "DisplayName": "ouch"
+  },
+  "Drakobloxxer": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://129697909721570",
+    "Description": "YOU MUST DIEEEE",
+    "Author": "ChandelureBoi and Eef_X3 ",
+    "AuthorsNew": [
+      "1632374261",
+      "177714903"
+    ],
+    "DisplayName": "DRAKOBLOXXER"
+  },
+  "ToonGuy": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://118963642219204",
+    "Description": "golden era",
+    "Author": "Dr_Radium",
+    "AuthorsNew": "1308015890",
+    "DisplayName": "toonguy"
+  },
+  "raver": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://100299010013166",
+    "Description": "party like it's 2010.",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "raver"
+  },
+  "Fox": {
+    "Image": "rbxassetid://138619706004272",
+    "Description": "a good swashbuckler never steals!",
+    "Author": "NicolaiXeno",
+    "Rarity": "Outrageous",
+    "DisplayName": "wolf"
+  },
+  "PUMPKIN": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://128210521315602",
+    "Description": "who stuck a knife in my face",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "pumpkin"
+  },
+  "monarch's guard": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://102132281205489",
+    "Description": "designed by @/c4ut10nz",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "monarch's guard"
+  },
+  "Skater": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://17859345636",
+    "Description": "utg update on the skatestation 2",
+    "Author": "arcadeant",
+    "AuthorsNew": "135133548",
+    "DisplayName": "skater"
+  },
+  "arsonist": {
+    "Description": "test",
+    "Author": "nixybelle",
+    "AdminOnly": true,
+    "DisplayName": "arsonist",
+    "Image": "rbxassetid://135645851118660",
+    "Rarity": "Epic",
+    "AuthorsNew": "229590000"
+  },
+  "IGOR": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://80593746778633",
+    "Description": "i can't stop you, i can't rock too",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "igor"
+  },
+  "The Bold Action Man": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://120729555446175",
+    "Description": "I've Got The Perfect Plan.",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "the bold action man"
+  },
+  "RavenReaper": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://17859345455",
+    "Description": "TAKE THE UNIVERSE AND GRIND IT DOWN TO THE FINEST POWDER AND SIEVE IT THROUGH THE FINEST SIEVE AND THEN SHOW ME ONE ATOM OF JUSTICE, ONE MOLECULE OF MERCY. AND YET YOU ACT AS IF THERE IS SOME IDEAL ORDER IN THE WORLD OR SOME RIGHTNESS IN THE UNIVERSE BY WHICH IT MAY BE JUDGED.",
+    "Author": "snowycrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "raven reaper"
+  },
+  "reefdefender": {
+    "Rarity": "Admin",
+    "Image": "rbxassetid://86622600980151",
+    "Description": "wip idk",
+    "Author": "ChandelureBoi",
+    "AuthorsNew": "1632374261",
+    "DisplayName": "reef defender"
+  },
+  "Soldier": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://118843484344960",
+    "Description": "If tagging is sure to result in victory, then you must fight. Sun Tzu said that.",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "soldier"
+  },
+  "dino": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://132571988618048",
+    "Description": "he loves you. you love him",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "dino"
+  },
+  "Mito": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://110809361921124",
+    "Description": "pretty on the surface. darker underneath",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "mito"
+  },
+  "King": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "shoutout to combat initiation (you shouldn't have this lol)",
+    "Rarity": "Special",
+    "AdminOnly": true,
+    "DisplayName": "king"
+  },
+  "pingus": {
+    "Image": "rbxassetid://17287694937",
+    "Description": "scourge.",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "pingus"
+  },
+  "StickerManiac": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://18307756841",
+    "Description": "they won't come off help",
+    "Author": "Xxshotgunfloodchamp1",
+    "AuthorsNew": "77098570",
+    "DisplayName": "sticker maniac"
+  },
+  "surfer": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://116062484195543",
+    "Description": "surf's up",
+    "Author": "nixybelle",
+    "AuthorsNew": "229590000",
+    "DisplayName": "surfer"
+  },
+  "FemGuest": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://72673117307860",
+    "Description": "make a free account to change how you look!",
+    "Author": "BimmyTheChimney",
+    "AuthorsNew": "7964571057",
+    "DisplayName": "femguest"
+  },
+  "Engineer": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://18627236956",
+    "Description": "i built that",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "engie"
+  },
+  "1x1x1x1": {
+    "Image": "rbxassetid://17580061485",
+    "Description": "d              ng.........you got owned...",
+    "Rarity": "Outrageous",
+    "DisplayName": "1x1x1x1"
+  },
+  "MELO": {
+    "Description": "popipo",
+    "Author": "GlaresOfChaos",
+    "Variants": {
+      "MESSYMELO": {
+        "Image": "rbxassetid://81813503935517",
+        "Description": "popipo",
+        "Author": "GlaresOfChaos & NicolaiXeno",
+        "DisplayName": "messy hair melo"
+      }
+    },
+    "DisplayName": "melo",
+    "Image": "rbxassetid://79393443861392",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "320935834"
+  },
+  "BunnyJammies": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://139052653609828",
+    "Description": "my eyesight has never been better",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "bunny jammies"
+  },
+  "TheComedian": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://124677749805798",
+    "Description": "mask on",
+    "Author": "Dr_Radium",
+    "AuthorsNew": "1308015890",
+    "DisplayName": "the comedian"
+  },
+  "TheArcader": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://103566903136012",
+    "Description": "breaking records in every arcade",
+    "Author": "Dr_Radium",
+    "AuthorsNew": "1308015890",
+    "DisplayName": "the arcader"
+  },
+  "Spade Knight": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://73314681431772",
+    "Description": "glory gleams brighter in gold",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "spade knight"
+  },
+  "SwordMaster": {
+    "Image": "rbxassetid://136541314626015",
+    "Description": "so lonely at the top",
+    "Rarity": "Legendary",
+    "DisplayName": "swordmaster"
+  },
+  "spidercovered": {
+    "Image": "rbxassetid://17599019771",
+    "Description": "could happen to anyone",
+    "Rarity": "Rare",
+    "DisplayName": "spiders"
+  },
+  "muffin": {
+    "Description": "just muffin' around",
+    "Author": "GlaresOfChaos",
+    "DisplayName": "muffin",
+    "Image": "rbxassetid://122993254733618 ",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "320935834"
+  },
+  "LastStander": {
+    "Exclude": true,
+    "Image": "rbxassetid://139854766358175",
+    "Description": "always the last one standing",
+    "Rarity": "Epic",
+    "AdminOnly": true,
+    "DisplayName": "last stander"
+  },
+  "PlagueDoctor": {
+    "Description": "oh good heavens, it's worse than i thought.",
+    "Author": "shinonWasTaken & 23sanx",
+    "DisplayName": "pestilent",
+    "Image": "rbxassetid://18312522334",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "Chance Taker": {
+    "Description": "test",
+    "Author": "GlaresOfChaos",
+    "AdminOnly": true,
+    "DisplayName": "chance taker",
+    "Image": "rbxassetid://135645851118660",
+    "Rarity": "Epic",
+    "AuthorsNew": "320935834"
+  },
+  "Hallows2024_Jason": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows jason"
+  },
+  "Renegade": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://18625477260",
+    "Description": "man, i guess that's fate...",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "renegade"
+  },
+  "rudetagger": {
+    "Image": "rbxassetid://96108379342607",
+    "Description": "sometimes there's people you just gotta tag",
+    "Rarity": "Epic",
+    "DisplayName": "rude tagger"
+  },
+  "Hallows2024_Saint": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows saint"
+  },
+  "TheStalker": {
+    "Image": "rbxassetid://17599428840",
+    "Description": "holy",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "the stalker"
+  },
+  "Hallows2024_EyelessJack": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows eyeless jack"
+  },
+  "Hallows2024_Crown": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows crown"
+  },
+  "Doors_SeekuChanOutfit": {
+    "Image": "rbxassetid://71908824143353",
+    "Description": "what is this bro",
+    "Author": "verticoz & nicolaixeno",
+    "Rarity": "DoorsCollab",
+    "DisplayName": "seek-u-chan"
+  },
+  "Doors_SeekOutfit": {
+    "Rarity": "DoorsCollab",
+    "Image": "rbxassetid://98155438682223",
+    "Description": "all encompassing",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "seeked"
+  },
+  "AprilFools_Candi": {
+    "Image": "rbxassetid://112167723948888",
+    "Description": "sweet like candy!",
+    "Price": 1000,
+    "Rarity": "Transcendental",
+    "DisplayName": "candi"
+  },
+  "DevilHunter": {
+    "Description": "this party's getting crazy, let's rock!",
+    "Author": "arcadeant",
+    "DisplayName": "devil hunter",
+    "Image": "rbxassetid://17859345636",
+    "Exclude": true,
+    "Rarity": "Epic",
+    "AuthorsNew": "135133548"
+  },
+  "Doors_EGOnesieOutfit": {
+    "Rarity": "DoorsCollab",
+    "Image": "rbxassetid://71217492475174",
+    "Description": "i am suddenly fluent in spanish",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "goblino onesie"
+  },
+  "Chocolate Vanguard": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://82319077158540",
+    "Description": "sweet first. bite after",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "chocolate vanguard"
+  },
+  "DustDevil": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://17859344884",
+    "Description": "do you feel lucky... bloxxer?",
+    "Author": "shinon",
+    "AuthorsNew": "704409337",
+    "DisplayName": "dust devil"
+  },
+  "Hallows2024_Slenderman": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "ill figure out a way to hide these eventually. SHHHH",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "hallows slenderman"
+  },
+  "lsplash": {
+    "Image": "rbxassetid://17599726968",
+    "Description": "DOORS REFERENCE",
+    "Price": 0,
+    "Rarity": "Special",
+    "DisplayName": "lsplash"
+  },
+  "AprilFools_Opaque": {
+    "Image": "rbxassetid://75480459075581",
+    "Description": "comp players loathe him",
+    "Rarity": "Transcendental",
+    "Variants": {
+      "sharp": {
+        "Image": "rbxassetid://75480459075581",
+        "Description": "comp players sharp",
+        "Rarity": "Transcendental",
+        "DisplayName": "sharp"
+      }
+    },
+    "DisplayName": "opaque"
+  },
+  "Demolitionist": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://18336010791",
+    "Description": "my main goal is to blow up",
+    "Author": "maplazalea",
+    "AuthorsNew": "195818320",
+    "DisplayName": "demolitionist"
+  },
+  "RoboArms": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://105554016226368",
+    "Description": "hello runner",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "robo arms"
+  },
+  "cyberpunk": {
+    "Image": "rbxassetid://129168132498847",
+    "Description": "how do u paint idk why im here LOL",
+    "Author": "lovalic",
+    "Rarity": "Epic",
+    "DisplayName": "cyberpunk"
+  },
+  "ShortFuse": {
+    "Rarity": "Epic",
+    "Image": "rbxassetid://80430844055890",
+    "Description": "\"IM DA BOMB\" - ChandelureBoi",
+    "Author": "maplazalea and shaddinaround",
+    "AuthorsNew": [
+      "195818320",
+      "179214622"
+    ],
+    "DisplayName": "shortfuse"
+  },
+  "3DScannedHumanBeing": {
+    "Image": "rbxassetid://18294681448",
+    "Description": "he can't hurt you any more",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "3D Scanned Human Being"
+  },
+  "seek": {
+    "Rarity": "Special",
+    "Image": "rbxassetid://18307772546",
+    "Description": "holy moly",
+    "Author": "verticoz",
+    "AuthorsNew": "153586043",
+    "DisplayName": "seek"
+  },
+  "SB_Jorgis": {
+    "Description": "anyway enough about that. let's talk about my busted knee",
+    "Author": "shinon",
+    "DisplayName": "jorgis",
+    "Image": "rbxassetid://92983294400204",
+    "Rarity": "SlapBattlesCollab",
+    "AuthorsNew": "704409337"
+  },
+  "Banana": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://18763563184",
+    "Description": "where he at where he at where he at where he at",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "banana"
+  },
+  "Crossroads": {
+    "Image": "rbxassetid://17599808283",
+    "Description": "i really wanted to try this",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "crossroads"
+  },
+  "cybernetic": {
+    "Image": "rbxassetid://108522739918125",
+    "Description": "wake up",
+    "Author": "0C0IL",
+    "Rarity": "Outrageous",
+    "DisplayName": "cybernetic"
+  },
+  "vagabond": {
+    "Rarity": "CICollab",
+    "Image": "rbxassetid://126331371666602",
+    "Description": "RAHHHHH",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "vagabond"
+  },
+  "Candy Pranker": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://89266439363827",
+    "Description": "dude this outfit is so sticky",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "the beast"
+  },
+  "Sparkletime": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://17859345069",
+    "Description": "sparkle on!",
+    "Author": "shinon",
+    "AuthorsNew": "704409337",
+    "DisplayName": "sparkletime"
+  },
+  "jason": {
+    "Rarity": "CICollab",
+    "Image": "rbxassetid://77704621905028",
+    "Description": "ch ch ch ha ha ha",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "jason"
+  },
+  "Chroma": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://103168522114753",
+    "Description": "can you feel the light?",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "chroma"
+  },
+  "SuperHero": {
+    "Rarity": "Outrageous",
+    "Image": "rbxassetid://95524851859534",
+    "Description": "you guys are the real heros...",
+    "Author": "crabfish",
+    "AuthorsNew": "135115672",
+    "DisplayName": "super hero"
+  },
+  "Regiment": {
+    "Description": "uniform of leaders who dare to fight beyond the walls",
+    "Author": "GlaresOfChaos",
+    "Variants": {
+      "Titan Shifter": {
+        "Image": "rbxassetid://73752741001376",
+        "Description": "standard issue uniform of those who dare to fight beyond the walls",
+        "Rarity": "Outrageous",
+        "DisplayName": "titan shifter"
+      }
+    },
+    "DisplayName": "regiment",
+    "Image": "rbxassetid://94893980604343",
+    "Rarity": "Outrageous",
+    "AuthorsNew": "320935834"
+  },
+  "Duck": {
+    "Image": "rbxassetid://118889516540139",
+    "Description": "lets tag!",
+    "Author": "NicolaiXeno & BaskingBlaze",
+    "Rarity": "Outrageous",
+    "DisplayName": "duck"
+  },
+  "newBear": {
+    "Image": "rbxassetid://87083390161384",
+    "Description": "welcome everyone!",
+    "Author": "NicolaiXeno",
+    "Rarity": "Outrageous",
+    "DisplayName": "grizz"
+  },
+  "Rockstar": {
+    "Description": "smells like teen spirit",
+    "Price": 0,
+    "Author": "shinonWasTaken & 23sanx",
+    "DisplayName": "rockstar",
+    "LikeAndGroup": true,
+    "Image": "rbxassetid://18325895613",
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "testingoutfit": {
+    "Image": "rbxassetid://18307772546",
+    "Description": "testingoutfit",
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "testing outfit"
+  },
+  "TheRunner": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://18771674198",
+    "Description": "dude it's him",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "parkourist"
+  },
+  "unfathomable rage beyond recognition": {
+    "Image": "rbxassetid://17580870797",
+    "Description": "never will this be allowed",
+    "Price": 0,
+    "Rarity": "Admin",
+    "AdminOnly": true,
+    "DisplayName": "unfathomable rage"
+  },
+  "Fishermen": {
+    "Rarity": "Rare",
+    "Image": "rbxassetid://95185992451072",
+    "Description": "dude i got this amazing idea for a game",
+    "Author": "Squistic",
+    "AuthorsNew": "465782547",
+    "DisplayName": "fisherman"
+  },
+  "BILL": {
+    "Description": "im beautiful and i know it",
+    "Author": "maplazalea and shaddinaround",
+    "Variants": {
+      "bill_handsome": {
+        "Image": "rbxassetid://103970387916595",
+        "Description": "i dont like this",
+        "DisplayName": "bill but handsome"
+      },
+      "bill": {
+        "Image": "rbxassetid://129279366688453",
+        "Description": "i dont like this",
+        "DisplayName": "bill"
+      }
+    },
+    "DisplayName": "bill",
+    "Image": "rbxassetid://129279366688453",
+    "Rarity": "Legendary",
+    "AuthorsNew": [
+      "195818320",
+      "179214622"
+    ]
+  },
+  "KORE": {
+    "Image": "rbxassetid://135944590608710",
+    "Description": "we have korblox at home",
+    "Rarity": "Epic",
+    "DisplayName": "kore"
+  },
+  "ChickenBucket": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://117455586699385",
+    "Description": "a bucket of chicken",
+    "Author": "Ragdulls",
+    "AuthorsNew": "119499978",
+    "DisplayName": "chicken bucket"
+  },
+  "vampirehunter": {
+    "Description": "garlic and stuff",
+    "Author": "arcadeant",
+    "DisplayName": "vampire hunter",
+    "Image": "rbxassetid://77219172731404 ",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "135133548"
+  },
+  "CuteWitch": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://94978306211660",
+    "Description": "APPRENTICE WIIIIIITCH",
+    "Author": "Stevonthy",
+    "AuthorsNew": "254059916",
+    "DisplayName": "apprentice witch"
+  },
+  "CHEF": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://85649573380893",
+    "Description": "i cooka da pizza",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "chef"
+  },
+  "SCARECROW": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://96506498524106",
+    "Description": "i dont want to stand in a field alone anymore",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "scarecrow"
+  },
+  "PRINCESS": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://77704621905028",
+    "Description": "WIP",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "princess"
+  },
+  "WEREWOLF": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://97776129244456",
+    "Description": "i keep having to buy so many shirts",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "werewolf"
+  },
+  "lich": {
+    "Rarity": "Halloween2024",
+    "Image": "rbxassetid://91230082920842",
+    "Description": "Fall.",
+    "Author": "abrahamabugri",
+    "AuthorsNew": "604060894",
+    "DisplayName": "primordial"
+  },
+  "Scientist": {
+    "Rarity": "Mythic",
+    "Image": "rbxassetid://90970995183033",
+    "Description": "ze healing is not as rewarding as ze hurting",
+    "Author": "shinonWasTaken & 23sanx",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ],
+    "DisplayName": "scientist"
+  },
+  "witch": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://102177185622232",
+    "Description": "hocus pocus",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "witch"
+  },
+  "Emperor Sinister": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://71927210047232",
+    "Description": "trick? no. just terror.",
+    "Author": "GlaresOfChaos",
+    "AuthorsNew": "320935834",
+    "DisplayName": "emperor sinister"
+  },
+  "diver": {
+    "Description": "i saw something in the ocean",
+    "Author": "Ragdulls",
+    "DisplayName": "diver",
+    "Image": "rbxassetid://109884807121547",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": "119499978"
+  },
+  "wizard": {
+    "Description": "my potions are too strong for you",
+    "Author": "shinonWasTaken & 23sanx",
+    "DisplayName": "wizard",
+    "Image": "rbxassetid://108409761929374",
+    "Exclude": true,
+    "Rarity": "Outrageous",
+    "AuthorsNew": [
+      "704409337",
+      "3900962844"
+    ]
+  },
+  "sailor": {
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://71707117737861",
+    "Description": "what do you do with a running sailor",
+    "Author": "SnowyCrest",
+    "AuthorsNew": "687076701",
+    "DisplayName": "sailor"
+  }
+}
